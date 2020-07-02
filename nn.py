@@ -1,5 +1,6 @@
 import numpy as np 
 from validation import compute_f1
+from read_dataset import read_dataset, test_dataset
 from keras.models import Model
 from keras.layers import TimeDistributed,Conv1D,Dense,Embedding,Input,Dropout,LSTM,Bidirectional,MaxPooling1D,Flatten,concatenate
 from prepro import readfile,createBatches,createMatrices,iterate_minibatches,addCharInformatioin,padding
@@ -27,8 +28,8 @@ def tag_dataset(dataset):
     return predLabels, correctLabels
 
 
-trainSentences = readfile("data/train.txt")
-devSentences = readfile("data/valid.txt")
+trainSentences = readfile("data/train.txt") + read_dataset()
+devSentences = readfile("data/valid.txt") + test_dataset()
 testSentences = readfile("data/test.txt")
 
 trainSentences = addCharInformatioin(trainSentences)
