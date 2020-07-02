@@ -29,8 +29,8 @@ def tag_dataset(dataset):
 
 
 trainSentences = readfile("data/train.txt") + read_dataset()
-devSentences = readfile("data/valid.txt") + test_dataset()
-testSentences = readfile("data/test.txt")
+devSentences = readfile("data/valid.txt") + readfile("data/test.txt")
+testSentences = test_dataset()
 
 trainSentences = addCharInformatioin(trainSentences)
 devSentences = addCharInformatioin(devSentences)
