@@ -49,7 +49,8 @@ def read_dataset() :
     list1 = df.values.tolist()
     list1 = list1[:30000]
     # print(len(list1))
-    gsentence.append(list1)
+    for i in list1:
+        gsentence.append([i])
     df = pd.read_csv('dataset/accident_dataset.csv', encoding = "ISO-8859-1")
     df.head()
     df.isnull().sum()
@@ -58,7 +59,8 @@ def read_dataset() :
     list1 = df.values.tolist()
     list1 = list1[:30000]
     # print(len(list1))
-    gsentence.append(list1)
+    for i in list1:
+        gsentence.append([i])
 
     return gsentence
 
@@ -73,7 +75,8 @@ def test_dataset() :
     list1 = df.values.tolist()
     list1 = list1[30000:]
     # print(len(list1))
-    gsentence.append(list1)
+    for i in list1:
+        gsentence.append([i])
     df = pd.read_csv('dataset/accident_dataset.csv', encoding = "ISO-8859-1")
     df.head()
     df.isnull().sum()
@@ -82,8 +85,10 @@ def test_dataset() :
     list1 = df.values.tolist()
     list1 = list1[30000:]
     # print(len(list1))
-    gsentence.append(list1)
+    for i in list1:
+        gsentence.append([i])
 
     return gsentence
 
 # read_dataset()
+print(read_dataset())
