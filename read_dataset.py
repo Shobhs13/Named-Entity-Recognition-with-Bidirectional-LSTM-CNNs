@@ -1,16 +1,15 @@
 import pandas as pd
 import numpy as np
 
-def read_dataset() :
+def train_sentences() :
+
     df = pd.read_csv('dataset/main_dataset.csv', encoding = "ISO-8859-1")
     df = df[:100000]
     df.head()
     df.isnull().sum()
     df = df.fillna(method='ffill')
-
     df['Sentence #'].nunique(), df.Word.nunique(), df.Tag.nunique()
     df1=df.groupby('Tag').size().reset_index(name='counts')
-
     class SentenceGetter(object):
         def __init__(self, data):
             self.n_sent = 1
@@ -29,66 +28,62 @@ def read_dataset() :
                 return s 
             except:
                 return None
-
     getter = SentenceGetter(df)
     sentences = getter.sentences
-
-    gsentence = []
-    
+    finalSentences = []
     for sentence in sentences :
         arr = []
         for i in sentence:
             arr.append([i[0], i[2]])
-        gsentence.append(arr)
+        finalSentences.append(arr)
 
-    df = pd.read_csv('dataset/covid_dataset.csv', encoding = "ISO-8859-1")
-    df.head()
-    df.isnull().sum()
-    df = df.fillna(method='ffill')
+    f = open("dataset/gali_annotated_train.csv", "r")
+    curr = []
+    for x in f:
+        if "Sentence #" in x:
+            if curr != [] :
+                finalSentences.append(curr)
+            curr = []
+        else :
+            y = x.split(',')
+            curr.append(y)
 
-    list1 = df.values.tolist()
-    list1 = list1[:30000]
-    # print(len(list1))
-    for i in list1:
-        gsentence.append([i])
-    df = pd.read_csv('dataset/accident_dataset.csv', encoding = "ISO-8859-1")
-    df.head()
-    df.isnull().sum()
-    df = df.fillna(method='ffill')
+    f = open("dataset/accident_annotated_train.csv", "r")
+    curr = []
+    for x in f:
+        if "Sentence #" in x:
+            if curr != [] :
+                finalSentences.append(curr)
+            curr = []
+        else :
+            y = x.split(',')
+            curr.append(y)
 
-    list1 = df.values.tolist()
-    list1 = list1[:30000]
-    # print(len(list1))
-    for i in list1:
-        gsentence.append([i])
+    return finalSentences
 
-    return gsentence
+def test_sentences() :
+    finalSentences = []
 
-def test_dataset() :
+    f = open("dataset/gali_annotated_test.csv", "r")
+    curr = []
+    for x in f:
+        if "Sentence #" in x:
+            if curr != [] :
+                finalSentences.append(curr)
+            curr = []
+        else :
+            y = x.split(',')
+            curr.append(y)
 
-    gsentence = []
-    df = pd.read_csv('dataset/covid_dataset.csv', encoding = "ISO-8859-1")
-    df.head()
-    df.isnull().sum()
-    df = df.fillna(method='ffill')
+    f = open("dataset/accident_annotated_test.csv", "r")
+    curr = []
+    for x in f:
+        if "Sentence #" in x:
+            if curr != [] :
+                finalSentences.append(curr)
+            curr = []
+        else :
+            y = x.split(',')
+            curr.append(y)
 
-    list1 = df.values.tolist()
-    list1 = list1[30000:]
-    # print(len(list1))
-    for i in list1:
-        gsentence.append([i])
-    df = pd.read_csv('dataset/accident_dataset.csv', encoding = "ISO-8859-1")
-    df.head()
-    df.isnull().sum()
-    df = df.fillna(method='ffill')
-
-    list1 = df.values.tolist()
-    list1 = list1[30000:]
-    # print(len(list1))
-    for i in list1:
-        gsentence.append([i])
-
-    return gsentence
-
-# read_dataset()
-print(read_dataset())
+    return finalSentences
