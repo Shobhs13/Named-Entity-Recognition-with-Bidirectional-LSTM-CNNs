@@ -36,7 +36,6 @@ Delhi,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 14,I-TIM
 (,O
@@ -67,7 +66,6 @@ Delhi,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 14,I-TIM
 (,O
@@ -96,7 +94,6 @@ look,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-PER
 29,O
 After,O
@@ -127,7 +124,6 @@ http,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 29,I-TIM
 :,O
@@ -158,7 +154,6 @@ http,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-MISC
 29,I-MISC
 :,O
@@ -216,7 +211,6 @@ Accident,O
 4,O
 Dec,O
 2011,B-TIM
-",",O
 New,B-ORG
 Delhi,I-ORG
 Alliance,I-ORG
@@ -272,14 +266,12 @@ http,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-PER
 25,O
 :,O
 Five,O
 Haj,B-LOC
 pilgrims,B-PER
-",",O
 including,O
 th,O
 ...,O
@@ -345,7 +337,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 November,B-TIM
 24,I-TIM
 (,O
@@ -366,7 +357,6 @@ mishaps,O
 in,O
 24,B-TIM
 hours,O
-",",O
 over,O
 20,O
 injured,O
@@ -397,7 +387,6 @@ probed,O
 :,O
 By,O
 IANS,B-ORG
-",",O
 New,B-LOC
 Delhi,I-LOC
 :,O
@@ -421,7 +410,6 @@ Sentence #1333,
 RT,O
 @,O
 MichaelEhline2011One,O
-"dead,9",O
 injured,O
 in,O
 train,O
@@ -445,8 +433,6 @@ in,O
 a,O
 ...,O
 Sentence #1334,
-One,O
-"dead,9",O
 injured,O
 in,O
 train,O
@@ -491,7 +477,6 @@ probed,O
 -,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 22,I-TIM
 :,O
@@ -509,7 +494,6 @@ probed,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 22,I-TIM
 (,O
@@ -523,7 +507,6 @@ Safety,I-LOC
 (,O
 CRS,O
 ),O
-",",O
 Eastern,B-LOC
 Cir,I-LOC
 ...,O
@@ -543,17 +526,14 @@ http,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 :,O
 Two,O
 people,O
-",",O
 including,O
 a,O
 girl,O
-",",O
 were,O
 kille,O
 ...,O
@@ -575,10 +555,8 @@ accidents,O
 on,O
 Pluz,B-ORG
 Media,I-ORG
-",",O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 (,O
@@ -586,7 +564,6 @@ IANS,O
 ),O
 Two,O
 people,O
-",",O
 i,O
 ...,O
 http,O
@@ -794,16 +771,13 @@ road,I-LOC
 accident,O
 NEW,B-LOC
 DELHI,I-LOC
-",",O
 AUGUST,B-TIM
 11,I-TIM
 :,O
 Chief,B-PER
 Minister,I-PER
-",",O
 Mehbooba,B-PER
 Mufti,I-PER
-",",O
 ...,O
 http,O
 :,O
@@ -826,7 +800,6 @@ New,B-LOC
 Delhi,B-LOC
 #,O
 airport,B-LOC
-",",O
 probe,O
 http,O
 :,O
@@ -853,7 +826,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,O
 7,O
 (,O
@@ -1031,7 +1003,6 @@ Prime,B-LOC
 Honda,I-LOC
 New,B-LOC
 Delhi,I-LOC
-",",O
 in,O
 the,O
 month,O
@@ -1061,7 +1032,6 @@ derailments,O
 Govt,B-ORG
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jul,B-TIM
 19,I-TIM
 (,O
@@ -1103,7 +1073,6 @@ in,O
 last,O
 five,B-TIM
 years,O
-",",O
 nearly,O
 53,O
 http,O
@@ -1117,7 +1086,6 @@ are,O
 2/3,O
 fatal,O
 accidents,O
-",",O
 traffic,O
 signal,O
 at,O
@@ -1129,13 +1097,10 @@ MARG,I-LOC
 &,O
 SPM,B-LOC
 COLLEGE,I-LOC
-",",O
 Punjabi,B-LOC
 Bagh,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
-",",O
 wont,O
 be,O
 set,O
@@ -1168,14 +1133,12 @@ it,O
 a,O
 terror,O
 attack,O
-",",O
 a,O
 train,O
 accident,O
 or,O
 a,O
 jailbreak,O
-",",O
 we,O
 never,O
 learn,O
@@ -1198,10 +1161,8 @@ Shaeed,B-LOC
 Bhagat,I-LOC
 Singh,I-LOC
 College,I-LOC
-",",O
 Seikh,B-LOC
 Sarai,I-LOC
-",",O
 New,B-LOC
 Delhi-17,I-LOC
 https,O
@@ -1215,7 +1176,6 @@ Offer,O
 @,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Join,O
 #,O
 Nebosh,O
@@ -1255,7 +1215,6 @@ Sunday,B-TIM
 accident,O
 near,O
 Kanpur,B-LOC
-",",O
 http,O
 :,O
 //dlvr.it/MkKwyJ,O
@@ -1307,7 +1266,6 @@ Sunday,B-TIM
 accident,O
 near,O
 Kanpur,B-LOC
-",",O
 http,O
 :,O
 //dlvr.it/Mk4dQB,O
@@ -1323,7 +1281,6 @@ to,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 22,I-TIM
 (,O
@@ -1373,7 +1330,6 @@ http,O
 //fb.me/6ACAesIeN,O
 Sentence #1375,
 Russia,B-LOC
-",",O
 France,B-LOC
 Condole,O
 Loss,O
@@ -1405,7 +1361,6 @@ says,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-LOC
 21,I-LOC
 :,O
@@ -1473,7 +1428,6 @@ victims,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 (,O
@@ -1525,7 +1479,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 (,O
@@ -1541,7 +1494,6 @@ http,O
 //fb.me/ZHB8agsF,O
 Sentence #1382,
 Sonia,B-PER
-",",O
 Rahul,B-PER
 Gandhi,I-PER
 express,O
@@ -1553,7 +1505,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 (,O
@@ -1596,7 +1547,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 20,I-TIM
 (,O
@@ -1671,7 +1621,6 @@ compensation,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 17,I-TIM
 (,O
@@ -1716,7 +1665,6 @@ Sentence #1389,
 In,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Blue-line,O
 buses,O
 are,O
@@ -1774,7 +1722,6 @@ Sentence #1392,
 MyNews.in,O
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1784,7 +1731,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-LOC
 9,I-LOC
 :,O
@@ -1800,7 +1746,6 @@ MyNews.in,O
 Sentence #1393,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1810,7 +1755,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 9,I-TIM
 (,O
@@ -1830,7 +1774,6 @@ http,O
 Sentence #1394,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1840,7 +1783,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 9,I-TIM
 (,O
@@ -1860,7 +1802,6 @@ http,O
 Sentence #1395,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1870,7 +1811,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-LOC
 9,I-LOC
 (,O
@@ -1890,7 +1830,6 @@ http,O
 Sentence #1396,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1900,7 +1839,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-LOC
 9,I-LOC
 (,O
@@ -1920,7 +1858,6 @@ http,O
 Sentence #1397,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1930,7 +1867,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 9,I-TIM
 (,O
@@ -1950,7 +1886,6 @@ http,O
 Sentence #1398,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1960,7 +1895,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 9,I-TIM
 (,O
@@ -1980,7 +1914,6 @@ http,O
 Sentence #1399,
 Minor,O
 girl,O
-",",O
 two,O
 others,O
 killed,O
@@ -1990,7 +1923,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 9,I-TIM
 (,O
@@ -2011,7 +1943,6 @@ Sentence #1400,
 Taiwanese,B-GPE
 student,O
 killed,O
-",",O
 one,O
 injured,O
 in,O
@@ -2021,7 +1952,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 .,O
 9,B-TIM
@@ -2046,7 +1976,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 7,I-TIM
 (,O
@@ -2077,7 +2006,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,O
 7,O
 :,O
@@ -2104,7 +2032,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,O
 7,O
 (,O
@@ -2135,7 +2062,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 7,I-TIM
 (,O
@@ -2166,7 +2092,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,O
 7,O
 (,O
@@ -2197,7 +2122,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,O
 7,O
 (,O
@@ -2228,7 +2152,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-TIM
 7,I-TIM
 (,O
@@ -2309,7 +2232,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 18,I-TIM
 :,O
@@ -2333,7 +2255,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 18,I-TIM
 (,O
@@ -2387,7 +2308,6 @@ deaths,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 14,I-TIM
 (,O
@@ -2461,8 +2381,6 @@ nearly,O
 40,O
 in,O
 India,B-LOC
-:,O
-"Sat,2015-06-13",O
 16:20,O
 NEW,B-LOC
 DELHI,I-LOC
@@ -2594,7 +2512,6 @@ Sa,O
 ...,O
 Sentence #1421,
 PM,O
-",",O
 Sonia,B-PER
 express,O
 grief,O
@@ -2603,7 +2520,6 @@ Rajasthan,O
 accident,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 12,I-TIM
 :,O
@@ -2627,11 +2543,8 @@ of,O
 Border,O
 .,O
 Screened,O
-on,O
-"June13,1997",O
 at,O
 Uphaar,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -2755,7 +2668,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-TIM
 12,I-TIM
 :,O
@@ -2781,7 +2693,6 @@ road,B-LOC
 accident,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-TIM
 12,I-TIM
 :,O
@@ -2808,7 +2719,6 @@ at,O
 pusa,B-LOC
 gate,I-LOC
 inderpuri,B-LOC
-",",O
 new,B-LOC
 Delhi,I-LOC
 at,O
@@ -2835,7 +2745,6 @@ Victim,O
 writes,O
 to,O
 President,B-PER
-",",O
 says,O
 Smriti,B-PER
 Irani,I-PER
@@ -2859,7 +2768,6 @@ Victim,O
 writes,O
 to,O
 President,B-PER
-",",O
 says,O
 Smriti,B-PER
 Irani,I-PER
@@ -2869,7 +2777,6 @@ to,O
 family,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,O
 http,O
 :,O
@@ -2889,7 +2796,6 @@ accident,O
 victims,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-TIM
 9,I-TIM
 :,O
@@ -2916,7 +2822,6 @@ victims,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-TIM
 9,I-TIM
 :,O
@@ -2938,7 +2843,6 @@ AIIMS,B-LOC
 in,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 One,O
 reported,O
 dead,O
@@ -3041,7 +2945,6 @@ staff,O
 Report,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 7,I-TIM
 :,O
@@ -3071,7 +2974,6 @@ Report,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 7,I-TIM
 :,O
@@ -3096,7 +2998,6 @@ denies,O
 victim,O
 's,O
 charge,O
-",",O
 says,O
 she,O
 helped,O
@@ -3106,7 +3007,6 @@ after,O
 accident,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-PER
 7,I-PER
 :,O
@@ -3137,7 +3037,6 @@ Delhi,I-LOC
 :,O
 Sandili,B-LOC
 Nagar,I-LOC
-",",O
 ...,O
 http,O
 :,O
@@ -3164,7 +3063,6 @@ Delhi,I-LOC
 :,O
 Sandili,B-LOC
 Nagar,I-LOC
-",",O
 ...,O
 http,O
 :,O
@@ -3264,7 +3162,6 @@ Expressway,I-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-TIM
 6,I-TIM
 :,O
@@ -3284,7 +3181,6 @@ ship-builder,O
 GRSE,O
 hits,O
 operations,O
-",",O
 company,O
 says,O
 work,O
@@ -3297,7 +3193,6 @@ http,O
 |,O
 Kolkata/New,B-LOC
 Delhi,I-LOC
-",",O
 May,B-TIM
 2,I-TIM
 (,O
@@ -3324,7 +3219,6 @@ http,O
 pic.twitter.com/6UOGlHvI3W,O
 Sentence #1450,
 Yes,O
-",",O
 my,O
 nephew,O
 met,O
@@ -3581,7 +3475,6 @@ Health,B-ORG
 &,I-ORG
 Family,I-ORG
 Welfare,I-ORG
-",",O
 Shri,B-PER
 Ashwini,I-PER
 Kumar,I-PER
@@ -3594,7 +3487,6 @@ officials,O
 of,O
 the,O
 Ministry,B-ORG
-",",O
 after,O
 releasing,O
 a,O
@@ -3612,7 +3504,6 @@ part,O
 of,O
 #,O
 RoadSafetyWeek,O
-",",O
 in,O
 New,B-LOC
 Delhi,I-LOC
@@ -3642,7 +3533,6 @@ of,O
 Road,O
 Safety,O
 Week,O
-",",O
 in,O
 New,B-LOC
 Delhi,I-LOC
@@ -3671,7 +3561,6 @@ of,O
 Road,O
 Safety,O
 Week,O
-",",O
 in,O
 New,B-LOC
 Delhi,I-LOC
@@ -3698,7 +3587,6 @@ of,O
 Road,O
 Safety,O
 Week,O
-",",O
 in,O
 New,B-LOC
 Delhi,I-LOC
@@ -3727,7 +3615,6 @@ of,O
 Road,O
 Safety,O
 Week,O
-",",O
 in,O
 New,B-LOC
 Delhi,I-LOC
@@ -3777,7 +3664,6 @@ http,O
 |,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 26,I-TIM
 (,O
@@ -3815,7 +3701,6 @@ http,O
 pic.twitter.com/G7CGERHdo4,O
 Sentence #1464,
 President,B-PER
-",",O
 PM,B-ORG
 condole,O
 death,O
@@ -3831,7 +3716,6 @@ http,O
 |,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 26,I-TIM
 (,O
@@ -3886,8 +3770,6 @@ Delhi,I-LOC
 Sentence #1467,
 In,O
 a,O
-tragic,O
-"accident,1",O
 Sentence #1468,
 1,O
 school,O
@@ -3936,7 +3818,6 @@ http,O
 |,O
 Gorakhpur/New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 26,I-TIM
 (,O
@@ -3992,7 +3873,6 @@ to,O
 lok,B-LOC
 nayak,I-LOC
 hospital,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -4162,7 +4042,6 @@ AapKaGopalRai,O
 LtGovDelhi,B-PER
 Bhavna,B-ORG
 Gaur,I-ORG
-",",O
 MLA,B-PER
 Palam,B-LOC
 vidhansabha,I-LOC
@@ -4174,10 +4053,8 @@ for,O
 all,O
 Bengali,B-LOC
 colony,I-LOC
-",",O
 Mahavir,B-ORG
 Enclave,I-ORG
-",",O
 New,B-LOC
 Delhi-110045,I-LOC
 .,O
@@ -4191,7 +4068,6 @@ years,O
 .,O
 No,O
 roads,O
-",",O
 only,O
 Diseases,O
 and,O
@@ -4199,7 +4075,6 @@ Accident,O
 everywhere,O
 Sentence #1476,
 Anyone,O
-",",O
 please,O
 save,O
 us,O
@@ -4392,13 +4267,11 @@ Delhi,I-LOC
 :,O
 Harjinder,B-PER
 Singh,I-PER
-",",O
 a,O
 76-year-old,O
 auto,O
 rickshaw,O
 driver,O
-",",O
 is,O
 pleased,O
 that,O
@@ -4431,7 +4304,6 @@ Delhi,I-LOC
 Road,O
 Accident,O
 News,O
-",",O
 http,O
 :,O
 //www.pioneerhindi.com/two-dead-four-injured-including-a-child-in-a-road-accident/,O
@@ -4475,16 +4347,11 @@ reduction,O
 in,O
 Pollution,O
 '',O
-",",O
 Accidents,O
-",",O
 Smog,O
-",",O
 Fuel,B-PER
 Consumption,I-PER
-",",O
 Noise,O
-",",O
 Road,O
 Rage,O
 and,O
@@ -4534,7 +4401,6 @@ radar,O
 not,O
 been,O
 covered,O
-",",O
 an,O
 accident,O
 would,O
@@ -4549,7 +4415,6 @@ direction,O
 of,O
 the,O
 plane,O
-",",O
 claiming,O
 that,O
 the,O
@@ -4568,8 +4433,6 @@ delhi,I-LOC
 date,O
 .,O
 September,B-TIM
-"16,2019",I-TIM
-",",O
 Monday,B-TIM
 Sentence #1491,
 President,B-PER
@@ -4595,10 +4458,7 @@ lakh,O
 Sentence #1493,
 New,B-LOC
 Delhi,I-LOC
-",",O
 September,B-TIM
-"14,2019",I-TIM
-",",I-TIM
 Saturday,I-TIM
 Sentence #1494,
 As,O
@@ -4620,7 +4480,6 @@ the,O
 road,B-LOC
 is,O
 increasing,O
-",",O
 the,O
 new,O
 Motor,O
@@ -4690,7 +4549,6 @@ bell,O
 In,O
 western,O
 superstition,O
-",",O
 Friday,B-TIM
 the,O
 13th,O
@@ -4725,7 +4583,6 @@ https,O
 //goo.gl/search/road+accident+deaths+in+india+2018,O
 In,O
 2018,B-TIM
-",",O
 India,B-LOC
 had,O
 fewer,O
@@ -4801,7 +4658,6 @@ My,O
 dear,O
 pm,O
 sir,O
-",",O
 In,O
 New,B-LOC
 Delhi,I-LOC
@@ -4811,7 +4667,6 @@ where,O
 I,O
 live,O
 Dasghara,B-LOC
-",",O
 Todapur,B-LOC
 Village,O
 .,O
@@ -4828,7 +4683,6 @@ on,O
 streets,O
 eating,O
 plastics,O
-",",O
 foils,O
 and,O
 metals,O

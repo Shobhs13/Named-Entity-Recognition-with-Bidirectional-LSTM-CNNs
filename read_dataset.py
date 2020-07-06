@@ -91,3 +91,10 @@ def test_sentences() :
             curr.append(y)
 
     return finalSentences
+
+# s = train_sentences() + test_sentences()
+
+# for i in s:
+#     for j in i:
+#         if len(j) != 2:
+#             print(j)

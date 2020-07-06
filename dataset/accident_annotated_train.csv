@@ -29,13 +29,11 @@ from,O
 past,B-TIM
 1,I-TIM
 month,I-TIM
-",",O
 authority,O
 waiting,O
 for,O
 some,O
 accident,O
-",",O
 or,O
 for,O
 election,O
@@ -70,7 +68,6 @@ Sentence #2,
 @,O
 Adarsh,B-LOC
 Nagar,I-LOC
-",",O
 Delhi,B-ORG
 police,I-ORG
 .,O
@@ -114,7 +111,6 @@ an,O
 accident,O
 at,O
 mathura,O
-",",O
 &,O
 had,O
 a,O
@@ -133,7 +129,6 @@ surgery,O
 performed,O
 at,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
 :,O
 A,O
@@ -206,7 +201,6 @@ accident,O
 on,O
 his,O
 bike,O
-",",O
 broken,O
 kneecap,O
 .,O
@@ -230,7 +224,6 @@ accident,O
 on,O
 his,O
 bike,O
-",",O
 broken,O
 kneecap,O
 .,O
@@ -317,13 +310,10 @@ Y'day,O
 met,O
 an,O
 accident,O
-",",O
 admitted,O
 in,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 lets,O
 c,O
 wat,O
@@ -346,14 +336,12 @@ accident,O
 victim,O
 in,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 If,O
 willing,O
 to,O
 donate,O
-",",O
 please,O
 contact,O
 Biju,O
@@ -636,7 +624,6 @@ News,O
 :,O
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -661,7 +648,6 @@ http,O
 Sentence #27,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -690,7 +676,6 @@ D,I-ORG
 Sentence #28,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -717,7 +702,6 @@ http,O
 Sentence #29,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -746,7 +730,6 @@ Sentence #30,
 indianews,O
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -771,7 +754,6 @@ news,O
 Sentence #31,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -798,7 +780,6 @@ to,O
 Sentence #32,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -825,7 +806,6 @@ http,O
 Sentence #33,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -852,7 +832,6 @@ to,O
 Sentence #34,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -879,7 +858,6 @@ to,O
 Sentence #35,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -906,7 +884,6 @@ http,O
 Sentence #36,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -935,7 +912,6 @@ Sentence #37,
 News,O
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -961,7 +937,6 @@ http,O
 Sentence #38,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -988,7 +963,6 @@ http,O
 Sentence #39,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1017,7 +991,6 @@ ndtv,O
 :,O
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1043,7 +1016,6 @@ http,O
 Sentence #41,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1070,7 +1042,6 @@ http,O
 Sentence #42,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1097,7 +1068,6 @@ http,O
 Sentence #43,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1124,7 +1094,6 @@ http,O
 Sentence #44,
 Pregnant,O
 woman,O
-",",O
 AIIMS,B-LOC
 official,O
 killed,O
@@ -1226,7 +1195,6 @@ the,O
 accident,O
 at,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
 Sentence #48,
 BJP,B-ORG
@@ -1304,7 +1272,6 @@ passes,O
 away,O
 at,O
 AIIMS,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 after,O
@@ -1365,7 +1332,6 @@ accident,O
 near,O
 Delhi,B-LOC
 airport,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1381,7 +1347,6 @@ accident,O
 near,O
 Delhi,B-LOC
 airport,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1397,7 +1362,6 @@ accident,O
 near,O
 Delhi,B-LOC
 airport,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1413,7 +1377,6 @@ accident,O
 near,O
 Delhi,B-LOC
 airport,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1472,7 +1435,6 @@ accident,O
 near,O
 Delhi,B-LOC
 airport,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1642,25 +1604,19 @@ LINE,O
 IN,O
 AIIMS,B-LOC
 X-ING,O
-",",O
 CON,O
 .,O
 PL.,O
-",",O
 DELHI,B-LOC
 GATE,I-LOC
-",",O
 DHOLA,B-LOC
 KUAN,I-LOC
-",",O
 ITO,B-LOC
-",",O
 ISBT,B-LOC
 Sentence #68,
 @,O
 narendramodi,B-PER
 sir,O
-",",O
 Rajesh,B-LOC
 is,O
 waiting,O
@@ -1668,7 +1624,6 @@ at,O
 Aiims,B-LOC
 trauma,I-LOC
 centre,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 No.,I-LOC
@@ -1684,7 +1639,6 @@ Sentence #69,
 @,O
 narendramodi,O
 sir,O
-",",O
 Rajesh,B-LOC
 jha,I-PER
 will,O
@@ -1706,7 +1660,6 @@ at,O
 Aiims,B-LOC
 trauma,I-LOC
 centre,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 Sentence #70,
@@ -1743,7 +1696,6 @@ Sentence #71,
 @,O
 JPNadda,O
 sir,O
-",",O
 vikash,B-PER
 jha,I-PER
 is,O
@@ -1862,14 +1814,12 @@ Supriyo,I-PER
 meets,O
 with,O
 accident,O
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 May,B-TIM
 6,I-TIM
 :,O
@@ -1888,7 +1838,6 @@ Supriyo,I-PER
 Admitted,O
 to,O
 AIIMS,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 Got,O
@@ -1912,14 +1861,12 @@ Supriyo,I-PER
 meets,O
 with,O
 accident,O
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 May,B-TIM
 6,I-TIM
 :,O
@@ -1943,7 +1890,6 @@ road,O
 accident,O
 in,O
 Delhi,B-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -1970,7 +1916,6 @@ accident,O
 in,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 admitted,O
 to,O
 #,O
@@ -2005,13 +1950,11 @@ road,O
 accident,O
 in,O
 Delhi,B-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
 Trauma,I-LOC
 Centre,I-LOC
-",",O
 he,O
 's,O
 under,O
@@ -2032,13 +1975,11 @@ road,O
 accident,O
 in,O
 Delhi,B-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
 Trauma,I-LOC
 Centre,I-LOC
-",",O
 he,O
 's,O
 under,O
@@ -2057,7 +1998,6 @@ accident,O
 in,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 admitted,O
 to,O
 AIIMS,B-LOC
@@ -2149,7 +2089,6 @@ Delhi-,B-LOC
 AIIMS,B-LOC
 docs,O
 #,O
-"Killed,4",O
 #,O
 injured,O
 in,O
@@ -2174,7 +2113,6 @@ of,O
 #,O
 AIIMS,B-LOC
 Delhi,I-LOC
-",",O
 who,O
 lost,O
 their,O
@@ -2185,7 +2123,6 @@ car,O
 accident,O
 last,O
 night,B-TIM
-",",O
 It,O
 is,O
 a,O
@@ -2286,7 +2223,6 @@ Request,O
 to,O
 all,O
 yunger,O
-",",O
 s,O
 Caustion,O
 for,O
@@ -2327,7 +2263,6 @@ of,O
 Dr,B-PER
 Harshad,I-PER
 Wankhade,I-PER
-",",O
 who,O
 was,O
 also,O
@@ -2394,7 +2329,6 @@ Sentence #94,
 3,O
 AIIMS,B-LOC
 doctors,O
-"killed,4",O
 injured,O
 in,O
 a,O
@@ -2426,7 +2360,6 @@ of,O
 3,O
 AIIMS,B-LOC
 Delhi,B-LOC
-"doctors,4",O
 others,O
 injured,O
 Delhi,B-MISC
@@ -2437,8 +2370,6 @@ https,O
 pic.twitter.com/kCPFkJwrMF,O
 Sentence #96,
 :,O
-",3",O
-",4",O
 https,O
 :,O
 //lalluram.com/,O
@@ -2501,7 +2432,6 @@ torture,O
 even,O
 in,O
 Delhi,B-LOC
-",",O
 every,O
 single,O
 day,O
@@ -2636,7 +2566,6 @@ killed,O
 on,O
 Yamuna,B-LOC
 Expressway,I-LOC
-",",O
 while,O
 4,O
 other,O
@@ -2669,7 +2598,6 @@ from,O
 AIIMS,B-LOC
 Delhi,I-LOC
 killed,O
-",",O
 three,O
 injured,O
 in,O
@@ -2719,7 +2647,6 @@ canter,O
 around,O
 2.30,B-TIM
 AM,I-TIM
-",",O
 police,O
 said,O
 .,O
@@ -2770,7 +2697,6 @@ For,O
 accident,O
 case,O
 Call,O
-"9456858036,90079974647",O
 Via,O
 @,O
 Pedal_India,B-LOC
@@ -2959,7 +2885,6 @@ accident,O
 on,O
 July,B-TIM
 28,I-TIM
-",",O
 following,O
 the,O
 Supreme,B-LOC
@@ -2996,7 +2921,6 @@ met,O
 with,O
 an,O
 accident,O
-",",O
 sources,O
 said,O
 .,O
@@ -3016,9 +2940,7 @@ was,O
 discharged,O
 from,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 where,O
 she,O
 underwent,O
@@ -3027,7 +2949,6 @@ following,O
 a,O
 car,O
 accident,O
-",",O
 sources,O
 said,O
 on,O
@@ -3049,7 +2970,6 @@ Sentence #119,
 Unnao,O
 rape,O
 survivor,O
-",",O
 who,O
 was,O
 critically,O
@@ -3060,7 +2980,6 @@ car,O
 accident,O
 in,O
 July,B-TIM
-",",O
 is,O
 discharged,O
 from,O
@@ -3076,7 +2995,6 @@ Sentence #120,
 Unnao,O
 rape,O
 survivor,O
-",",O
 who,O
 was,O
 critically,O
@@ -3087,7 +3005,6 @@ car,O
 accident,O
 in,O
 July,B-TIM
-",",O
 is,O
 discharged,O
 from,O
@@ -3185,7 +3102,6 @@ The,O
 Unnao,O
 rape,O
 survivor,O
-",",O
 who,O
 had,O
 sustained,O
@@ -3200,7 +3116,6 @@ undergoing,O
 treatment,O
 at,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
 got,O
 discharged,O
@@ -3270,7 +3185,6 @@ ab,O
 hum,O
 Sentence #126,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3279,7 +3193,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3317,7 +3230,6 @@ DontProtectRapists,O
 plz,O
 Sentence #128,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3326,7 +3238,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3363,7 +3274,6 @@ Sentence #129,
 DontProtectRapists,O
 Sentence #130,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3372,7 +3282,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3409,7 +3318,6 @@ Sentence #131,
 DontProtectRapists,O
 Sentence #132,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3418,7 +3326,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3455,7 +3362,6 @@ Sentence #133,
 DontProtectRapists,O
 Sentence #134,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3464,7 +3370,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3501,7 +3406,6 @@ Sentence #135,
 DontProtectRapists,O
 Sentence #136,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3510,7 +3414,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3547,7 +3450,6 @@ Sentence #137,
 DontProtectRapists,O
 Sentence #138,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3556,7 +3458,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3593,7 +3494,6 @@ Sentence #139,
 DontProtectRapists,O
 Sentence #140,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3602,7 +3502,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3639,7 +3538,6 @@ Sentence #141,
 DontProtectRapists,O
 Sentence #142,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3648,7 +3546,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3685,7 +3582,6 @@ Sentence #143,
 DontProtectRapists,O
 Sentence #144,
 First,O
-",",O
 the,O
 victim,O
 father,O
@@ -3694,7 +3590,6 @@ be,O
 tortured,O
 and,O
 killed,O
-",",O
 then,O
 they,O
 will,O
@@ -3730,7 +3625,6 @@ Delhi,B-LOC
 DontProtectRapists,O
 Sentence #145,
 :,O
-",",O
 http,O
 :,O
 //www.haribhoomi.com/news/state/delhi/two-died-as-basment-collapses-at-aiims-delhi/38466.html,O
@@ -3742,7 +3636,6 @@ Accident,O
 AIIMS,B-LOC
 Sentence #146,
 :,O
-",",O
 http,O
 :,O
 //www.haribhoomi.com/news/state/delhi/two-died-as-basment-collapses-at-aiims-delhi/38466.html,O
@@ -3763,7 +3656,6 @@ AIIMS,B-LOC
 in,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 One,O
 reported,O
 dead,O
@@ -3782,7 +3674,6 @@ site,O
 at,O
 AIIMS,B-LOC
 Delhi,I-LOC
-",",O
 reported,O
 fatalities,O
 @,O
@@ -3858,11 +3749,9 @@ brain,O
 swelling,O
 after,O
 accident,O
-",",O
 in,O
 coma,O
 now,O
-",",O
 patient,O
 need,O
 to,O
@@ -3870,11 +3759,9 @@ admit,O
 in,O
 AIIMS,B-LOC
 Delhi,I-LOC
-",",O
 called,O
 emergency,O
 no,O
-",",O
 dnyed,O
 Sentence #152,
 Donated,O
@@ -3952,7 +3839,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,B-PER
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -3976,7 +3862,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,B-PER
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -4001,7 +3886,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,B-PER
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -4028,7 +3912,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,O
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -4053,7 +3936,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,O
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -4077,7 +3959,6 @@ to,O
 Union,B-ORG
 Health,I-ORG
 Secretary,O
-",",O
 Director,B-PER
 AIIMS,B-ORG
 &,O
@@ -4117,7 +3998,6 @@ http,O
 //goo.gl/fb/uxggfK,O
 Sentence #162,
 Wow,O
-",",O
 accidents,O
 cancer,O
 injuries,O
@@ -4127,7 +4007,6 @@ immediate,O
 treatments,O
 chaalu,O
 h,O
-",",O
 aur,O
 central,O
 govt,B-ORG
@@ -4139,13 +4018,11 @@ h,O
 wahan,O
 jaise,O
 AIIMS,B-LOC
-",",O
 RML,B-ORG
 etc,O
 .,O
 wahan,O
 jae,O
-",",O
 wo,O
 khule,O
 h,O
@@ -4169,7 +4046,6 @@ but,O
 specially,O
 koi,O
 up,O
-",",O
 hr,O
 se,O
 free,O
@@ -4215,12 +4091,10 @@ Imagine,O
 you,O
 visiting,O
 USA,B-LOC
-",",O
 get,O
 into,O
 an,O
 accident,O
-",",O
 &,O
 hospitals,O
 denying,O
@@ -4537,13 +4411,11 @@ for,O
 last,O
 3-4,B-TIM
 months,I-TIM
-",",O
 they,O
 are,O
 staying,O
 at,O
 Ghaziabad,B-LOC
-",",O
 he,O
 is,O
 ok,O
@@ -4554,7 +4426,6 @@ to,O
 back,O
 to,O
 Bihar,B-LOC
-",",O
 but,O
 they,O
 r,O
@@ -4562,7 +4433,6 @@ unable,O
 to,O
 book,O
 ticket,O
-",",O
 pls,O
 arrange,O
 3,O
@@ -4787,16 +4657,12 @@ Sentence #178,
 -,O
 @,O
 BloodDonorsIn,O
-",",O
 @,O
 BloodAid,O
-",",O
 @,O
 Blood4Help,B-LOC
-",",O
 @,O
 BloodDonerWorld,O
-",",O
 @,O
 docvjg,O
 Sentence #179,
@@ -4875,7 +4741,6 @@ u/s,O
 of,O
 Indian,B-GPE
 Penal,O
-"Code,1860",O
 .,O
 The,O
 date,O
@@ -4944,7 +4809,6 @@ with,O
 WHO,B-ORG
 during,O
 1960-1993,O
-",",O
 he,O
 travelled,O
 extensively,O
@@ -4957,7 +4821,6 @@ once,O
 as,O
 a,O
 child,O
-",",O
 so,O
 could,O
 not,O
@@ -4976,7 +4839,6 @@ accident,O
 while,O
 in,O
 Colombo,B-LOC
-",",O
 his,O
 family,O
 survived,O
@@ -4986,9 +4848,7 @@ a,O
 doctor,O
 at,O
 AIIMS,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 passed,O
 away,O
 recently,O
@@ -5003,7 +4863,6 @@ of,O
 coronavirus,O
 in,O
 Delhi,B-LOC
-",",O
 the,O
 All,B-ORG
 India,I-ORG
@@ -5066,7 +4925,6 @@ to,O
 AIIMS,B-LOC
 New,I-LOC
 Delhi,I-LOC
-",",O
 Little,B-LOC
 away,O
 from,O
@@ -5152,7 +5010,6 @@ DGP,B-MISC
 J,B-LOC
 &,I-LOC
 K,I-LOC
-",",O
 Shr,B-PER
 Dilbag,I-PER
 Singh,I-PER
@@ -5176,7 +5033,6 @@ today,B-TIM
 morning,I-TIM
 at,O
 AIIMS,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -5324,7 +5180,6 @@ DGP,I-MISC
 J,B-LOC
 &,I-LOC
 K,I-LOC
-",",O
 IGP,O
 Kashmir,B-PER
 sees,O
@@ -5337,7 +5192,6 @@ Sachnews,B-ORG
 Jammu,B-LOC
 Kashmir,I-LOC
 JAMMU,I-LOC
-",",O
 NOVEMBER,B-TIM
 16,I-TIM
 :,O
@@ -5391,7 +5245,6 @@ DGP,B-MISC
 J,B-LOC
 &,I-LOC
 K,I-LOC
-",",O
 IGP,O
 Kashmir,B-LOC
 sees,O
@@ -5402,7 +5255,6 @@ Airport,B-LOC
 .,O
 Sentence #196,
 JAMMU,O
-",",O
 NOVEMBER,B-TIM
 16,I-TIM
 :,O
@@ -5459,7 +5311,6 @@ DGP,O
 Sh,B-PER
 Dilbag,I-PER
 Singh,I-PER
-",",O
 IGP,O
 Sh,B-PER
 SP,I-PER
@@ -5513,7 +5364,6 @@ DGP,O
 Sh,B-PER
 Dilbag,I-PER
 Singh,I-PER
-",",O
 IGP,O
 Sh,B-PER
 SP,I-PER
@@ -5711,7 +5561,6 @@ pic.twitter.com/UhnaQEACMp,O
 Sentence #203,
 Respected,O
 mam,O
-",",O
 Happy,O
 Ganesh,B-PER
 Chaturthi,O
@@ -5825,18 +5674,14 @@ morning,O
 near,O
 CWG,B-LOC
 flyover,I-LOC
-",",O
 Akshardham,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 middle,O
 aged,O
 man,O
 on,O
 bike,O
 gone,O
-",",O
 RIP,O
 ...,O
 Sentence #207,
@@ -5849,12 +5694,10 @@ station,I-LOC
 .,O
 Fire,O
 truck,O
-",",O
 cops,O
 in,O
 full,O
 force,O
-",",O
 crowd,O
 ...,O
 seems,O
@@ -5892,7 +5735,6 @@ near,O
 Akshardham,B-LOC
 last,O
 night,B-TIM
-",",O
 two,O
 injured,O
 .,O
@@ -5913,7 +5755,6 @@ lost,O
 control-Police,O
 :,O
 Akshardham-Delhi,B-LOC
-",",O
 Mumbai-Pune,B-LOC
 #,O
 RIP,O
@@ -5929,7 +5770,6 @@ Kids,O
 party,O
 at,O
 malls,O
-",",O
 get,O
 hurt,O
 in,O
@@ -5962,7 +5802,6 @@ Sentence #213,
 Delhi,B-PER
 Woman,I-PER
 killed,O
-",",O
 five,O
 injured,O
 in,O
@@ -6291,7 +6130,6 @@ accident,O
 near,O
 Akshardham,B-LOC
 temple,I-LOC
-",",O
 several,O
 vehicles,O
 collided,O
@@ -6342,7 +6180,6 @@ Car,O
 accident,O
 near,O
 akshardham,B-LOC
-",",O
 Delhi,B-LOC
 Sentence #229,
 @,O
@@ -6360,7 +6197,6 @@ near,O
 Akshardham,B-LOC
 many,O
 bikers,O
-",",O
 cars,O
 take,O
 dangerous,O
@@ -6394,7 +6230,6 @@ URGENT,O
 DL7S,O
 BZ,O
 6429,O
-",",O
 Bike,O
 Honda,B-LOC
 Shine,O
@@ -6407,10 +6242,8 @@ AuthorityName,O
 Major,B-LOC
 #,O
 Accident,O
-",",O
 Hit,B-ORG
 &,I-ORG
-"Run,26th",B-TIM
 June,I-TIM
 MidNight,I-TIM
 12:15,I-TIM
@@ -6421,20 +6254,15 @@ To,O
 Shastri,B-LOC
 Park,I-LOC
 Road,I-LOC
-",",O
 Near,O
 Geeta,B-LOC
 Colony,I-LOC
 Road,I-LOC
 #,O
 Delhi,B-LOC
-",",O
-"Male,25y-30y",O
-",",O
 IDENTITY,B-ORG
 Not,I-ORG
 Available,I-ORG
-",",O
 PCR,O
 kisi,B-LOC
 Hospital,I-LOC
@@ -6445,29 +6273,22 @@ hai,O
 delhipolice,O
 @,O
 dtptrafficpic.twitter.com/0hszwhHLUJ,O
-",",O
 Sentence #231,
 !,O
-",",O
 Video,O
 http,O
 :,O
 //hindi.eenaduindia.com/States/North/Delhi/NewDelhi/2018/06/06030624/Truck-fall-down-from-Akshardham-Flyover-of-East-Delhi.vpf,O
 #,O
 Delhi,B-LOC
-",",O
 #,O
 Akshardham,B-LOC
-",",O
 #,O
 TruckAccident,O
-",",O
 #,O
 Accident,O
-",",O
 #,O
 Akshardhamflyover,I-LOC
-",",O
 #,O
 DelhiPolice,O
 Sentence #232,
@@ -6481,7 +6302,6 @@ lights,O
 under,O
 Akshardham,B-LOC
 Setu,O
-",",O
 NH24,B-LOC
 in,O
 East,B-LOC
@@ -6538,12 +6358,9 @@ Belongs,O
 to,O
 Satpal,B-GPE
 '',O
-",",O
 D-18,B-LOC
-",",O
 Arya,B-LOC
 Nagar,I-LOC
-",",O
 IP,B-LOC
 Ext,I-LOC
 .,O
@@ -6981,7 +6798,6 @@ New,I-LOC
 Delhi,I-LOC
 cause,O
 accidents,O
-",",O
 misbehaves,O
 with,O
 public,O
@@ -6992,7 +6808,6 @@ acts,O
 irresponsibly,O
 #,O
 Hyundai,B-LOC
-",",O
 #,O
 Trafficsquad,O
 Sentence #251,
@@ -7013,7 +6828,6 @@ the,O
 killer,O
 Ashram,B-LOC
 stretch,O
-",",O
 a,O
 man,O
 and,O
@@ -7036,7 +6850,6 @@ CONGESTION,O
 TOWARDS,O
 ASHRAM,B-LOC
 ROAD,I-LOC
-",",O
 INCOME-TAX,B-LOC
 CROSS,I-LOC
 ROAD,I-LOC
@@ -7058,7 +6871,6 @@ CONGESTION,O
 TOWARDS,O
 ASHRAM,B-LOC
 ROAD,I-LOC
-",",O
 INCOME-TAX,B-LOC
 CROSS,I-LOC
 ROAD,I-LOC
@@ -7072,14 +6884,11 @@ delhi,O
 traffic,O
 MAHARANI,B-LOC
 BAGH,I-LOC
-",",O
 MATHURA,B-LOC
 ROAD,I-LOC
-",",O
 NEAR,O
 ASHRAM,B-LOC
 FLYOVER,I-LOC
-",",O
 TRUCK,O
 ACCIDENT,O
 CAUSING,O
@@ -7190,7 +6999,6 @@ Sentence #259,
 Stuck,O
 at,O
 ashram,B-LOC
-",",O
 can,O
 any,O
 one,O
@@ -7220,7 +7028,6 @@ Sentence #260,
 Accident,O
 near,O
 Ashram,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 ..,O
@@ -7333,7 +7140,6 @@ on,O
 ashram,B-LOC
 road,I-LOC
 delhi,B-LOC
-",",O
 few,O
 minutes,O
 back,O
@@ -7398,7 +7204,6 @@ to,O
 Sarai,B-LOC
 Kale,I-LOC
 Khan,I-LOC
-",",O
 Lodhi,B-LOC
 Road,I-LOC
 have,O
@@ -7601,7 +7406,6 @@ Today,B-TIM
 at,O
 azadpur,B-LOC
 flyover,I-LOC
-",",O
 Delhi,B-LOC
 a,O
 fatal,O
@@ -7689,7 +7493,6 @@ such,O
 as,O
 Shalimar,B-LOC
 Bagh,I-LOC
-",",O
 Azadpur,B-LOC
 etc,O
 .,O
@@ -7768,7 +7571,6 @@ Border,I-LOC
 in,O
 #,O
 Delhi,B-LOC
-",",O
 a,O
 car,O
 in,O
@@ -7804,7 +7606,6 @@ accident,O
 @,O
 railway,B-LOC
 crossing,I-LOC
-",",O
 Badarpur,B-LOC
 border,I-LOC
 new,B-LOC
@@ -7819,7 +7620,6 @@ accident,O
 @,O
 railway,B-LOC
 crossing,I-LOC
-",",O
 Badarpur,B-LOC
 border,I-LOC
 new,B-LOC
@@ -7840,7 +7640,6 @@ badarpur,B-LOC
 border,I-LOC
 nee,B-LOC
 delhi,I-LOC
-",",O
 today,B-TIM
 accident,O
 3,O
@@ -7941,7 +7740,6 @@ accident,O
 on,O
 Kalindi,B-LOC
 Bridge,I-LOC
-",",O
 Delhi,B-LOC
 Bound,O
 Traffic,O
@@ -7952,7 +7750,6 @@ dtptraffic,O
 have,O
 cleared,O
 one,O
-",",O
 One,O
 more,O
 to,O
@@ -8101,7 +7898,6 @@ PMOIndia,O
 ArvindKejriwal,O
 Sentence #293,
 Locals,O
-",",O
 police,O
 save,O
 lives,O
@@ -8136,7 +7932,6 @@ Feeds,O
 AAPDelhiFeeds,O
 :,O
 MLA,B-PER
-",",O
 LambaAlka,O
 met,O
 victims,O
@@ -8160,7 +7955,6 @@ accident,O
 at,O
 Chandni,B-LOC
 Chowk,I-LOC
-",",O
 Delhi,B-LOC
 this,O
 afternoon,B-TIM
@@ -8181,16 +7975,13 @@ heart,O
 attack,O
 !,O
 Sentence #296,
-",",O
 Fire,O
 at,O
 Delhi,B-LOC
 Chandni,I-LOC
 Chowk,I-LOC
-",",O
 Fire,B-ORG
 force,I-ORG
-",",O
 Fire,B-ORG
 Accident,I-ORG
 http,O
@@ -8207,7 +7998,6 @@ Accident,O
 near,O
 #,O
 Chandnichowk,B-LOC
-",",O
 #,O
 Delhi,B-PER
 He,I-PER
@@ -8312,7 +8102,6 @@ todne,O
 pe,O
 bole,O
 the,O
-",",O
 na,O
 hi,O
 delhi,B-LOC
@@ -8320,7 +8109,6 @@ riots,O
 par,O
 bole,O
 the,O
-",",O
 naahi,O
 ab,O
 sadhuo,O
@@ -8339,13 +8127,11 @@ pehlu,O
 khan,O
 marta,O
 hai,O
-",",O
 chor,O
 tabrez,O
 ansari,O
 marta,O
 hai,O
-",",O
 jab,O
 urban,O
 naxal,O
@@ -8367,17 +8153,13 @@ No,I-LOC
 322,I-LOC
 -,I-LOC
 324,I-LOC
-",",O
 Kucha,B-PER
 Ghasi,I-PER
 Ram,I-PER
-",",O
 Chandni,B-LOC
 Chowk,I-LOC
-",",O
 Delhi,B-LOC
 110006,I-LOC
-",",O
 the,O
 electric,O
 cables,O
@@ -8409,7 +8191,6 @@ Bazar,I-LOC
 and,O
 Chandni,B-LOC
 Chowk,I-LOC
-",",O
 where,O
 you,O
 lived,O
@@ -8511,7 +8292,6 @@ Metro,I-ORG
 track,O
 in,O
 Chhatarpur,B-LOC
-",",O
 injured,O
 http,O
 :,O
@@ -8555,7 +8335,6 @@ fractured,O
 in,O
 #,O
 Chhatarpur,B-LOC
-",",O
 #,O
 Delhi,O
 .,O
@@ -8790,7 +8569,6 @@ today,B-TIM
 at,O
 10:30,B-TIM
 pm,I-TIM
-",",O
 near,O
 chhatarpur,B-LOC
 metro,I-LOC
@@ -8816,7 +8594,6 @@ delhi,I-LOC
 to,O
 GK,B-LOC
 crossing,O
-",",O
 due,O
 to,O
 which,O
@@ -8897,7 +8674,6 @@ itweet_chirag,O
 sanjaymanjrekar,O
 In,O
 Delhi,B-LOC
-",",O
 you,O
 would,O
 n't,O
@@ -8951,7 +8727,6 @@ on,O
 chirag,B-LOC
 delhi,I-LOC
 flyover,I-LOC
-",",O
 2,O
 cars,O
 and,O
@@ -8988,7 +8763,6 @@ an,O
 accident,O
 in,O
 Delhi,B-LOC
-",",O
 BJP,B-ORG
 leader,O
 Gopinath,B-LOC
@@ -9097,7 +8871,6 @@ Sentence #325,
 15,O
 Minutes,O
 Ago,O
-",",O
 I,O
 was,O
 heading,O
@@ -9118,7 +8891,6 @@ Delhi,I-LOC
 sheikh,B-LOC
 Sarai,I-LOC
 crossing,O
-",",O
 Big,O
 rocks,O
 are,O
@@ -9131,7 +8903,6 @@ the,O
 road,O
 since,O
 months,O
-",",O
 causing,O
 accidents,O
 .,O
@@ -9225,7 +8996,6 @@ shld,O
 get,O
 Gas,B-ORG
 Agency,I-ORG
-",",O
 Subway,B-LOC
 removed,O
 &,O
@@ -9303,7 +9073,6 @@ Sentence #334,
 @,O
 SatyendarJain,O
 Sir,O
-",",O
 pls,O
 either,O
 remove,O
@@ -9461,12 +9230,10 @@ Hello,O
 dtptraffic,O
 please,O
 note,O
-",",O
 due,O
 to,O
 no,O
 restrictions,O
-",",O
 ppl,O
 r,O
 driving,O
@@ -9475,7 +9242,6 @@ vehicles,O
 on,O
 high,O
 speed,O
-",",O
 they,O
 are,O
 driving,O
@@ -9486,7 +9252,6 @@ Lal,B-LOC
 Bahadur,I-LOC
 Shashtri,I-LOC
 Road,I-LOC
-",",O
 Chirag,B-LOC
 Delhi,I-LOC
 to,O
@@ -9500,7 +9265,6 @@ SUV,O
 cars,O
 are,O
 unstoppable,O
-",",O
 and,O
 leading,O
 accidents,O
@@ -9568,7 +9332,6 @@ Sentence #344,
 DCPSouthDelhi,O
 My,O
 request,O
-",",O
 please,O
 close,O
 U,B-ORG
@@ -9602,7 +9365,6 @@ towards,O
 SRI,B-LOC
 FORT,I-LOC
 road,I-LOC
-",",O
 it,O
 might,O
 result,O
@@ -9623,7 +9385,6 @@ on,O
 chirag,B-LOC
 delhi,I-LOC
 crossing,O
-",",O
 coming,O
 from,O
 Sangam,B-LOC
@@ -9714,7 +9475,6 @@ not,O
 been,O
 wearing,O
 Helmet,O
-",",O
 somebody,O
 else,O
 would,O
@@ -9764,7 +9524,6 @@ around,O
 pm,O
 .,O
 Fortunately,O
-",",O
 none,O
 of,O
 us,O
@@ -9782,7 +9541,6 @@ a,O
 dangerous,O
 road,O
 object,O
-",",O
 a,O
 green,O
 tarpaulin,O
@@ -9960,7 +9718,6 @@ Neuroradiology,I-LOC
 today,B-TIM
 at,O
 Aerocity,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -10048,9 +9805,7 @@ Sentence #356,
 dtptraffic,O
 @,O
 LtGovDelhi,O
-",",O
 sir,B-LOC
-",",O
 faulty,O
 traffic,O
 signals,O
@@ -10058,7 +9813,6 @@ are,O
 adding,O
 more,O
 congestion,O
-",",O
 chaos,O
 &,O
 accident,O
@@ -10121,7 +9875,6 @@ of,O
 a,O
 lady,O
 ghost,O
-",",O
 who,O
 supposedly,O
 killed,O
@@ -10415,7 +10168,6 @@ accident,O
 !,O
 !,O
 Sidhiya,O
-",",O
 yad,O
 aaya,O
 beta,O
@@ -10456,7 +10208,6 @@ Delhi,I-LOC
 gate,I-LOC
 Car,I-LOC
 accident,O
-",",O
 who,O
 was,O
 in,O
@@ -10500,7 +10251,6 @@ gate,I-LOC
 Sentence #370,
 jara,O
 batao,O
-",",O
 IIT,B-LOC
 delhi,I-LOC
 gate,I-LOC
@@ -10577,7 +10327,6 @@ Sentence #374,
 Please,O
 search,O
 Nehru,B-PER
-",",O
 were,O
 was,O
 he,O
@@ -10585,7 +10334,6 @@ born,O
 Search,O
 Mohammed,I-PER
 Younis,I-PER
-",",O
 Sharhayar,B-LOC
 Khan,I-LOC
 Search,O
@@ -10610,7 +10358,6 @@ an,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 gate,I-LOC
 while,O
@@ -10689,7 +10436,6 @@ car,O
 near,O
 Delhi,B-LOC
 Gate,I-LOC
-",",O
 patient,O
 killed,O
 @,O
@@ -10716,19 +10462,14 @@ LINE,O
 IN,O
 AIIMS,B-LOC
 X-ING,O
-",",O
 CON,O
 .,O
 PL.,O
-",",O
 DELHI,B-LOC
 GATE,I-LOC
-",",O
 DHOLA,B-LOC
 KUAN,I-LOC
-",",O
 ITO,B-LOC
-",",O
 ISBT,O
 Sentence #380,
 Retweeted,O
@@ -10983,7 +10724,6 @@ this,O
 animals,O
 like,O
 cows,O
-",",O
 dogs,O
 etc,O
 eat,O
@@ -11375,7 +11115,6 @@ mishap,O
 near,O
 Delhi,B-LOC
 Gate,I-LOC
-",",O
 parents,O
 allege,O
 hit-and-run,O
@@ -11427,18 +11166,15 @@ is,O
 helpless,O
 or,O
 careless,O
-",",O
 responsible,O
 for,O
 this,O
 accident,O
-",",O
 allow,O
 children,O
 to,O
 drive,O
 dangerously,O
-",",O
 I,O
 am,O
 crossing,O
@@ -11456,21 +11192,17 @@ at,O
 4.45pm,O
 at,O
 DND,B-ORG
-",",O
 hit,O
 and,O
 run,O
 case,O
-",",O
 called,O
 ambulance,O
-",",O
 had,O
 to,O
 leave,O
 from,O
 there,O
-",",O
 just,O
 called,O
 (,O
@@ -11480,7 +11212,6 @@ the,O
 injured,O
 auto,O
 driver,O
-",",O
 he,O
 was,O
 at,O
@@ -11488,7 +11219,6 @@ irwin,B-LOC
 hospital,I-LOC
 delhi,I-LOC
 gate,I-LOC
-",",O
 yet,O
 to,O
 be,O
@@ -11639,7 +11369,6 @@ Naraina,B-LOC
 to,O
 Dhaula,B-LOC
 kuan,I-LOC
-",",O
 ring,B-LOC
 road,I-LOC
 -,O
@@ -11662,7 +11391,6 @@ Naraina,B-LOC
 to,O
 Dhaula,B-LOC
 kuan,I-LOC
-",",O
 ring,B-LOC
 road,I-LOC
 -,O
@@ -11734,17 +11462,13 @@ delhi,B-LOC
 traffic,O
 BRAD,B-LOC
 SQUARE,I-LOC
-",",O
 RING,B-LOC
 ROAD,I-LOC
-",",O
 TRUCK,O
 ACCIDENT,O
-",",O
 CAUSING,O
 SLOW,O
 MOVEMENT,I-MISC
-",",I-MISC
 ON,O
 DHAULA,B-LOC
 KUAN,I-LOC
@@ -11790,7 +11514,6 @@ to,O
 Sarai,B-LOC
 Kale,I-LOC
 Khan,I-LOC
-",",O
 a,O
 stretch,O
 of,O
@@ -12326,7 +12049,6 @@ somewhere,O
 .,O
 Sentence #440,
 Yesterday,B-TIM
-",",O
 my,O
 Mama,B-PER
 met,O
@@ -12336,7 +12058,6 @@ accident,O
 near,O
 Dhaula,B-LOC
 kuan,I-LOC
-",",O
 '',O
 Delhi,B-ORG
 To,I-ORG
@@ -12390,7 +12111,6 @@ came,O
 Sentence #441,
 Delhi,B-ORG
 people,O
-",",O
 avoid,O
 using,O
 Rajauri,B-LOC
@@ -12451,7 +12171,6 @@ dilshad,B-LOC
 garden,I-LOC
 metro,B-LOC
 station,I-LOC
-",",O
 Delhi,B-LOC
 to,O
 Mohan,B-LOC
@@ -12498,7 +12217,6 @@ road,O
 Sentence #444,
 Dear,O
 sir,O
-",",O
 good,O
 morning,O
 road,O
@@ -12582,7 +12300,6 @@ rain,O
 ...,O
 Dilshad,B-LOC
 garden,I-LOC
-",",O
 damodar,B-LOC
 park,I-LOC
 industrial,I-LOC
@@ -12623,10 +12340,8 @@ case,O
 in,O
 GTB,B-LOC
 hospital,I-LOC
-",",O
 Dilshad,B-LOC
 Garden,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -12687,7 +12402,6 @@ bone,O
 After,O
 initial,O
 treatment,O
-",",O
 Shifted,O
 to,O
 Hope,B-ORG
@@ -12695,7 +12409,6 @@ Foundation,I-ORG
 .,O
 #,O
 Dwarka,B-LOC
-",",O
 #,O
 Delhi,B-LOC
 #,O
@@ -12750,11 +12463,8 @@ team,O
 hotel,O
 in,O
 Dwarka,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 semifinals,O
-",",O
 Vijay,B-PER
 Hazare,I-PER
 Trophy,O
@@ -12784,7 +12494,6 @@ MORTHIndia,O
 @,O
 nitin_gadkari,O
 ji,O
-",",O
 I,O
 met,O
 with,O
@@ -12849,14 +12558,12 @@ craft,O
 accident,O
 in,O
 dwarka,B-LOC
-",",O
 delhi,B-LOC
 Sentence #456,
 Massive,O
 accident,O
 in,O
 Dwarka,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 Early,O
@@ -12880,7 +12587,6 @@ killed,O
 in,O
 hit-and-run,O
 case,O
-",",O
 another,O
 injured,O
 in,O
@@ -12946,7 +12652,6 @@ Sector,I-LOC
 23,I-LOC
 Sentence #459,
 Sir,O
-",",O
 personally,O
 i,O
 have,O
@@ -12966,7 +12671,6 @@ updates,O
 .,O
 Forget,O
 corona,O
-",",O
 my,O
 father,O
 met,O
@@ -13004,7 +12708,6 @@ ambulance,O
 service,O
 in,O
 Dwarka,B-LOC
-",",O
 Delhi,B-LOC
 offered,O
 by,O
@@ -13063,11 +12766,9 @@ flat,B-LOC
 no,I-LOC
 .,I-LOC
 356,I-LOC
-",",O
 DDA,B-LOC
 LIG,I-LOC
 FLATS,I-LOC
-",",O
 POCKET,B-LOC
 -3,I-LOC
 SECTOR,I-LOC
@@ -13126,14 +12827,12 @@ encroachment,O
 of,O
 battery,O
 ricksaw,O
-",",O
 metro,O
 feeder,O
 (,O
 gramin,O
 bus,O
 ),O
-",",O
 fruit,O
 and,O
 vegetable,O
@@ -13141,7 +12840,6 @@ vendor,O
 in,O
 uttam,B-LOC
 nagar,I-LOC
-",",O
 dwarka,B-LOC
 mor,I-LOC
 .,O
@@ -13151,7 +12849,6 @@ massive,O
 jam,O
 &,O
 accident,O
-",",O
 it,O
 is,O
 quite,O
@@ -13183,7 +12880,6 @@ Delhi,I-ORG
 Myself,O
 Priyanka,B-PER
 Upreti,I-PER
-",",O
 resident,O
 of,O
 Delhi,B-LOC
@@ -13265,7 +12961,6 @@ major,O
 cause,O
 of,O
 concern,O
-",",O
 not,O
 only,O
 they,O
@@ -13349,25 +13044,19 @@ of,O
 Societies,B-LOC
 called,O
 Balaji,B-ORG
-",",O
 prodyogki,O
-",",O
 welcome,B-LOC
-",",O
 plot,O
-"6,12,8",O
 in,O
 sector,B-TIM
 3,I-TIM
 Dwarka,B-LOC
-",",O
 new,B-LOC
 Delhi,I-LOC
 Is,O
 full,O
 of,O
 potholes,O
-",",O
 resulting,O
 in,O
 accidents,O
@@ -13401,7 +13090,6 @@ delhi,I-LOC
 rase,O
 many,O
 questions,O
-",",O
 we,O
 request,O
 to,O
@@ -13419,8 +13107,6 @@ on,O
 weekly,O
 market,O
 sector,O
-"8,6",O
-",",O
 dadadev,B-LOC
 mandir,I-LOC
 road,I-LOC
@@ -13523,7 +13209,6 @@ school,I-ORG
 .,O
 LG,B-PER
 Delhi,B-LOC
-",",O
 Arvind,B-PER
 Kejriwal,I-PER
 cm,O
@@ -13541,7 +13226,6 @@ averted,O
 a,O
 big,O
 accident,O
-",",O
 control,O
 fire,O
 in,O
@@ -13572,7 +13256,6 @@ averted,O
 a,O
 big,O
 accident,O
-",",O
 control,O
 fire,O
 in,O
@@ -13609,25 +13292,19 @@ of,O
 Societies,B-LOC
 called,O
 Balaji,B-ORG
-",",O
 prodyogki,O
-",",O
 welcome,B-LOC
-",",O
 plot,O
-"6,12,8",O
 in,O
 sector,B-PER
 3,I-PER
 Dwarka,B-LOC
-",",O
 new,B-LOC
 Delhi,B-LOC
 Is,O
 full,O
 of,O
 potholes,O
-",",O
 resulting,O
 in,O
 accidents,O
@@ -13669,9 +13346,7 @@ No,I-LOC
 17,I-LOC
 .,O
 Sector-7,B-LOC
-",",O
 Dwarka,B-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 110075,I-LOC
@@ -13711,11 +13386,9 @@ flat,B-LOC
 no,I-LOC
 .,I-LOC
 356,I-LOC
-",",O
 DDA,B-LOC
 LIG,I-LOC
 FLATS,I-LOC
-",",O
 POCKET,B-LOC
 -3,I-LOC
 SECTOR,I-LOC
@@ -13789,7 +13462,6 @@ my,O
 Brother,O
 in,O
 Law,B-LOC
-",",O
 Delhite,B-LOC
 met,O
 with,O
@@ -13798,7 +13470,6 @@ accident,O
 in,O
 Vivek,B-LOC
 Vihar,I-LOC
-",",O
 Delhi,B-LOC
 but,O
 ESI,B-LOC
@@ -13858,7 +13529,6 @@ hai,O
 esic,B-LOC
 nandnagri,I-LOC
 Delhi,I-LOC
-",",O
 mera,O
 ilaaj,O
 ESI,B-LOC
@@ -13942,7 +13612,6 @@ What,O
 happening,O
 ?,O
 Anyway,B-LOC
-",",O
 be,O
 safe,O
 Delhi,B-LOC
@@ -14037,7 +13706,6 @@ on,O
 Golf,B-LOC
 Course,I-LOC
 Road,I-LOC
-",",O
 Gurgaon,B-LOC
 can,O
 be,O
@@ -14077,17 +13745,14 @@ intensity,O
 Sentence #485,
 Sad,O
 news,O
-",",O
 on,O
 Manoj,B-PER
 Chakrawarty,I-PER
-",",O
 of,O
 Delhi,B-LOC
 's,O
 Ambedkar,B-LOC
 Nagar,I-LOC
-",",O
 &,O
 a,O
 DJ,O
@@ -14097,7 +13762,6 @@ a,O
 Gurgaon,B-LOC
 's,O
 Hotel,B-LOC
-",",O
 killed,O
 by,O
 a,O
@@ -14120,7 +13784,6 @@ PREVENT,O
 more,O
 such,O
 accidents,O
-",",O
 &,O
 reward,O
 the,O
@@ -14155,45 +13818,36 @@ tame,O
 the,O
 2,O
 wheelers,O
-",",O
 they,O
 do,O
 n't,O
 stop,O
 at,O
 redlights,O
-",",O
 comes,O
 from,O
 wrong,O
 sides,O
-",",O
 anytime,O
 accidents,O
 can,O
 happen,O
-",",O
 especially,O
 in,O
 South,B-LOC
 Delhi,I-LOC
-",",O
 Okhla,B-LOC
 Industrial,I-LOC
 Area,I-LOC
 1,B-TIM
 &,O
 2,I-TIM
-",",O
 Nehru,B-LOC
 Plce,I-LOC
-",",O
 Govind,B-LOC
 Puri,I-LOC
-",",O
 Kalka,B-LOC
 Ji,I-LOC
-",",O
 @,O
 Road2India,B-LOC
 surroundings,O
@@ -14534,7 +14188,6 @@ Sentence #501,
 @,O
 tatapower_ddl,O
 Sir,O
-",",O
 In,O
 front,O
 of,O
@@ -14545,14 +14198,10 @@ Officers,B-ORG
 Type,I-ORG
 3,O
 Flats,O
-",",O
 Haiderpur,B-LOC
-",",O
 Shalimar,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
-",",O
 electrical,O
 wire,O
 is,O
@@ -14644,13 +14293,11 @@ in,O
 a,O
 Car,O
 Accident,O
-",",O
 Toyota,B-ORG
 Corolla,O
 near,O
 Hauz,B-LOC
 Khas,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 ~,O
@@ -14671,7 +14318,6 @@ in,O
 days,O
 .,O
 CP,B-LOC
-",",O
 Hauz,B-LOC
 Khas,I-LOC
 found,O
@@ -14694,7 +14340,6 @@ been,O
 ',O
 .,O
 Careful,O
-",",O
 there,O
 's,O
 a,O
@@ -14718,7 +14363,6 @@ the,O
 Mumbai,B-LOC
 fire,O
 accident,O
-",",O
 I,O
 request,O
 you,O
@@ -14782,7 +14426,6 @@ major,O
 hotspot,O
 for,O
 tourists,O
-",",O
 recreational,O
 activities,O
 and,O
@@ -15131,13 +14774,11 @@ accident,O
 ho,O
 Gaya,O
 hai,O
-",",O
 Delhi,B-LOC
 ki,O
 or,O
 aate,O
 hue,O
-",",O
 up,O
 gate,O
 se,O
@@ -15305,9 +14946,7 @@ see,O
 how,O
 many,O
 buses,O
-",",O
 cars,O
-",",O
 autos,O
 etc,O
 .,O
@@ -15385,11 +15024,9 @@ Chowk,I-LOC
 on,O
 Delhi-Gurgaon,B-LOC
 expressway,I-LOC
-",",O
 traffic,O
 moving,O
 slow,O
-",",O
 drive,O
 safe,O
 (,O
@@ -15694,7 +15331,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -15713,7 +15349,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-ORG
 Scindia,O
 and,O
@@ -15765,7 +15400,6 @@ at,O
 AM,O
 in,O
 82,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -15861,7 +15495,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-ORG
 university,I-ORG
 #,O
@@ -15885,7 +15518,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 2,I-TIM
 AM,I-TIM
@@ -15920,7 +15552,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 Sentence #541,
 ended,O
@@ -15998,7 +15629,6 @@ fire,O
 was,O
 an,O
 accident,O
-",",O
 not,O
 me,O
 @,O
@@ -16015,7 +15645,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -16101,7 +15730,6 @@ IIT,B-LOC
 Delhi,I-LOC
 main,I-LOC
 gate,I-LOC
-",",O
 decades,O
 ago,O
 involving,O
@@ -16167,7 +15795,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 Sonia,B-PER
 &,O
 M,B-PER
@@ -16196,7 +15823,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 @,O
 s_navroop,O
 Sentence #554,
@@ -16217,7 +15843,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 @,O
 ViratBharat,O
 Sentence #555,
@@ -16238,7 +15863,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 @,O
 manojsirsa,O
 Sentence #556,
@@ -16259,7 +15883,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 @,O
 UtsavMitra,O
 Sentence #557,
@@ -16280,7 +15903,6 @@ IIT,B-LOC
 delhi,I-LOC
 in,O
 1982,B-TIM
-",",O
 @,O
 malviyamit,O
 Sentence #558,
@@ -16421,7 +16043,6 @@ In,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -16511,7 +16132,6 @@ Delhi,I-LOC
 gate,I-LOC
 Car,O
 accident,O
-",",O
 who,O
 was,O
 in,O
@@ -16520,9 +16140,7 @@ car,O
 ...,O
 Sentence #568,
 Well,O
-",",O
 ahem,O
-",",O
 who,O
 was,O
 traveling,O
@@ -16650,7 +16268,6 @@ country,O
 ?,O
 Sentence #573,
 2-Soniyaji,B-LOC
-",",O
 Is,O
 it,O
 true,O
@@ -16662,14 +16279,12 @@ at,I-TIM
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 U,O
 were,O
 caught,O
 alone,O
 With,O
 Scindhia,B-PER
-",",O
 When,O
 yr,O
 car,O
@@ -16764,7 +16379,6 @@ at,I-TIM
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 Scindia,B-PER
 &,0
 Sonia,B-PER
@@ -16798,7 +16412,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -16818,7 +16431,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -16873,7 +16485,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -16925,7 +16536,6 @@ an,O
 accident,O
 in,O
 80s,B-TIM
-",",O
 senior,O
 Scindhia,B-LOC
 's,O
@@ -16996,7 +16606,6 @@ are,O
 driver,O
 's,O
 fault,O
-",",O
 but,O
 IIT,B-ORG
 Delhi,I-ORG
@@ -17072,7 +16681,6 @@ accident,O
 at,O
 IIT,B-ORG
 Delhi,I-ORG
-",",O
 anything,O
 on,O
 that,O
@@ -17117,14 +16725,12 @@ accident,O
 at,O
 IIT,B-LOC
 Delhi,I-LOC
-",",O
 traffic,O
 is,O
 chocked,O
 towards,O
 Nehru,B-LOC
 Place,I-LOC
-",",O
 avoid,O
 this,O
 stretch,O
@@ -17146,7 +16752,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Scindia,B-ORG
 &,I-ORG
 Sonia,I-ORG
@@ -17180,7 +16785,6 @@ Delhi,I-LOC
 causing,O
 huge,O
 traffic,O
-",",O
 please,O
 send,O
 some,O
@@ -17196,7 +16800,6 @@ a,O
 very,O
 drunken,O
 state,O
-",",O
 and,O
 could,O
 n't,O
@@ -17207,7 +16810,6 @@ Time,O
 of,O
 accident,O
 6.30,O
-"AM,12",B-ORG
 Mar,O
 17,O
 .,O
@@ -17301,7 +16903,6 @@ EvilYindoo,O
 just,O
 ask,O
 him,O
-",",O
 what,O
 was,O
 his,O
@@ -17337,7 +16938,6 @@ ourselves,O
 towards,O
 this,O
 thought,O
-",",O
 NSS,B-ORG
 IIT,B-LOC
 Delhi,I-LOC
@@ -17360,7 +16960,6 @@ ourselves,O
 towards,O
 this,O
 thought,O
-",",O
 NSS,B-ORG
 IIT,B-LOC
 Delhi,I-LOC
@@ -17419,7 +17018,6 @@ an,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 gate,I-LOC
 while,O
@@ -17547,7 +17145,6 @@ in,O
 at,O
 2,O
 am,O
-",",O
 Madhav,B-PER
 Rao,I-PER
 Scindia,I-PER
@@ -17773,7 +17370,6 @@ https,O
 //youtu.be/T_6gfR0uh_0,O
 Sentence #616,
 Sir,O
-",",O
 unke,O
 london,B-LOC
 wale,O
@@ -17857,7 +17453,6 @@ reduced,O
 around,O
 the,O
 world,O
-",",O
 they,O
 keep,O
 going,O
@@ -17872,7 +17467,6 @@ of,O
 the,O
 world,O
 's,O
-"vehicles,10",O
 %,O
 of,O
 the,O
@@ -17925,7 +17519,6 @@ At,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-ORG
 Scindia,O
 and,O
@@ -17980,7 +17573,6 @@ that,O
 night,O
 in,O
 1982,B-TIM
-",",O
 a,O
 car,O
 accident,O
@@ -18072,7 +17664,6 @@ traffic,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 main,I-LOC
 gate,I-LOC
@@ -18218,7 +17809,6 @@ bombino,O
 together,O
 at,O
 1:00AM,O
-",",O
 accident,O
 of,O
 vehicle,O
@@ -18227,7 +17817,6 @@ front,O
 of,O
 the,O
 IIT,B-LOC
-",",O
 DELHI,B-LOC
 .,O
 police,O
@@ -18235,7 +17824,6 @@ showed,O
 everything,O
 under,O
 carpet,O
-",",O
 hidden,O
 .,O
 Sentence #632,
@@ -18271,7 +17859,6 @@ the,O
 car,O
 ?,O
 Clue,O
-",",O
 MP,O
 busy,O
 in,O
@@ -18325,9 +17912,7 @@ Rajiv,B-LOC
 What,O
 about,O
 Indira,B-LOC
-",",O
 Sanjay,B-LOC
-",",O
 Sonia,B-LOC
 ?,O
 One,B-TIM
@@ -18337,7 +17922,6 @@ at,I-TIM
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -18398,7 +17982,6 @@ escaped,O
 on,O
 an,O
 autorickshaw,O
-",",O
 there,O
 are,O
 other,O
@@ -18417,7 +18000,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -18481,7 +18063,6 @@ Sentence #642,
 Please,O
 search,O
 Nehru,B-LOC
-",",O
 were,O
 was,O
 he,O
@@ -18489,7 +18070,6 @@ born,O
 Search,O
 Mohammed,B-PER
 Younis,I-PER
-",",O
 Sharhayar,B-PER
 Khan,I-PER
 Search,O
@@ -18530,20 +18110,16 @@ Discussion,I-ORG
 Prof,B-PER
 Dinesh,I-PER
 Mohan,I-PER
-",",O
 Honorary,B-PER
 Professor,I-PER
-",",O
 Transportation,B-ORG
 Research,I-ORG
 n,I-ORG
 Injury,I-ORG
 Prevention,I-ORG
 Programme,I-ORG
-",",O
 IIT,B-LOC
 Delhi,I-LOC
-",",O
 said,O
 driving,O
 training,O
@@ -18561,16 +18137,13 @@ AutoTechReview,O
 Sentence #645,
 LN,B-PER
 MISHRA,I-PER
-",",I-MISC
 MOHAN,B-PER
 KUMAR,I-PER
 MANGALAM,I-PER
-",",O
 SHYAMA,O
 PD,O
 .,O
 MOOKHERJEE,O
-",",O
 also,O
 in,O
 the,O
@@ -18620,7 +18193,6 @@ in,O
 CRRI,O
 and,O
 TRIPP,B-ORG
-",",O
 IIT,B-LOC
 Delhi,I-LOC
 for,O
@@ -18661,7 +18233,6 @@ Please,O
 take,O
 strict,O
 action,O
-",",O
 It,O
 can,O
 cause,O
@@ -18691,7 +18262,6 @@ HMOIndiapic.twitter.com/NwS2r94JZP,O
 Sentence #648,
 Delhi,B-ORG
 Police,I-ORG
-",",O
 please,O
 take,O
 strict,O
@@ -18707,7 +18277,6 @@ near,O
 IIT,B-LOC
 Delhi,I-LOC
 HOSTEL,I-LOC
-",",O
 they,O
 also,O
 damage,O
@@ -18790,7 +18359,6 @@ a,O
 friend,O
 's,O
 accident,O
-",",O
 this,O
 IIT,B-LOC
 Delhi,I-LOC
@@ -18811,28 +18379,21 @@ was,O
 the,O
 real,O
 Maharaja,O
-",",O
 Stadium,B-LOC
-",",O
 Eng,B-LOC
 and,I-LOC
 Medical,I-LOC
 college,I-LOC
 .,O
 Station,I-LOC
-",",O
 airport,I-LOC
-",",O
 shatabdi,B-MISC
 exp,I-MISC
-",",O
 taj,O
 exp,O
-",",O
 water,O
 purification,O
 plant,O
-",",O
 jungle,O
 safari,O
 and,O
@@ -18855,11 +18416,9 @@ front,O
 of,O
 IIT,B-LOC
 DELHI,I-LOC
-",",O
 and,O
 everything,O
 changed.,O
-",",O
 Sentence #652,
 Sentence #653,
 Sentence #654,
@@ -18870,7 +18429,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -18901,7 +18459,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -18939,7 +18496,6 @@ accident,O
 near,O
 IIT,B-LOC
 '',O
-",",O
 '',O
 Delhi,B-LOC
 main,I-LOC
@@ -18976,7 +18532,6 @@ Scindia,I-PER
 in,O
 the,O
 UK,B-LOC
-",",O
 which,O
 continued,O
 even,O
@@ -18991,7 +18546,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -19041,7 +18595,6 @@ at,O
 AM,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -19204,9 +18757,7 @@ issues,O
 Prof,O
 @,O
 ramgopal_rao,O
-",",O
 Director,O
-",",O
 IITDhttps,O
 :,O
 //timesofindia.indiatimes.com/city/delhi/strict-action-cuts-traffic-violations-on-iit-d-campus/articleshow/67921371.cms,O
@@ -19284,7 +18835,6 @@ at,O
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 in,O
 the,O
 minor,O
@@ -19298,7 +18848,6 @@ gate,I-LOC
 Sentence #667,
 In,O
 1982,B-TIM
-",",O
 Sonia,B-PER
 while,O
 traveling,O
@@ -19346,7 +18895,6 @@ story,O
 night,O
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-LOC
 's,O
 car,O
@@ -19377,13 +18925,11 @@ Gandhi,I-PER
 Both,O
 were,O
 injured,O
-",",O
 an,O
 IIT,B-LOC
 student,O
 helped,O
 them,O
-",",O
 got,O
 out,O
 of,O
@@ -19405,7 +18951,6 @@ Scindia,B-PER
 in,O
 the,O
 UK,B-LOC
-",",O
 which,O
 continued,O
 even,O
@@ -19420,7 +18965,6 @@ at,O
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -19460,7 +19004,6 @@ Scindia,I-PER
 in,O
 the,O
 UK,B-LOC
-",",O
 which,O
 continued,O
 even,O
@@ -19475,7 +19018,6 @@ at,O
 AM,I-TIM
 in,O
 1982,B-TIM
-",",O
 Madhavrao,B-PER
 Scindia,I-PER
 and,O
@@ -19700,13 +19242,11 @@ scindhia,I-PER
 dating,O
 Sonia,B-PER
 Gandhi,I-PER
-",",O
 injured,O
 in,O
 accident,O
 near,O
 IIT,B-LOC
-",",O
 Delhi,B-LOC
 .....,O
 madhav,B-PER
@@ -19739,7 +19279,6 @@ road,O
 safety,O
 in,O
 India,B-LOC
-",",O
 reduce,O
 accidents,O
 &,O
@@ -19759,18 +19298,14 @@ Transport,B-ORG
 Minister,I-ORG
 Nitin,B-PER
 Gadkari,I-PER
-",",O
 with,O
 recommendations,O
 agreed,O
 upon,O
 by,O
 ACMA,B-ORG
-",",O
 ARAI,B-ORG
-",",O
 NATRIP,B-ORG
-",",O
 IIT,B-LOC
 Delhi,I-LOC
 and,O
@@ -19789,7 +19324,6 @@ road,O
 safety,O
 in,O
 India,B-LOC
-",",O
 reduce,O
 accidents,O
 &,O
@@ -19809,18 +19343,14 @@ Transport,B-ORG
 Minister,I-ORG
 Nitin,B-PER
 Gadkari,I-PER
-",",O
 with,O
 recommendations,O
 agreed,O
 upon,O
 by,O
 ACMA,B-ORG
-",",O
 ARAI,B-ORG
-",",O
 NATRIP,B-ORG
-",",O
 IIT,B-LOC
 Delhi,I-LOC
 and,O
@@ -19975,7 +19505,6 @@ India,I-LOC
 Pilot,I-LOC
 turned,O
 politician,O
-",",O
 caught,O
 along,O
 with,O
@@ -20149,7 +19678,6 @@ hurt,O
 irrespective,O
 of,O
 caste,O
-",",O
 religion,O
 .,O
 Helmets,O
@@ -20168,7 +19696,6 @@ way,O
 On,O
 Delhi,B-LOC
 Roads,I-LOC
-",",O
 wearing,O
 a,O
 Skull,B-ORG
@@ -20179,7 +19706,6 @@ Helmet,O
 Bara,B-PER
 Hindu,I-PER
 Rao,I-PER
-",",O
 Inderlok,B-LOC
 etc,O
 ),O
@@ -20505,7 +20031,6 @@ Delhi,B-LOC
 Metro,I-LOC
 coach,O
 derails,O
-",",O
 none,O
 hurt,O
 :,O
@@ -20536,7 +20061,6 @@ dead,O
 after,O
 an,O
 accident,O
-",",O
 donated,O
 organs,O
 &,O
@@ -20586,11 +20110,9 @@ Indraprastha,B-ORG
 Automobiles,I-ORG
 Pvt,I-ORG
 Ltd,I-ORG
-",",O
 Wazirpur,B-LOC
 Industrial,I-LOC
 Area,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -20731,7 +20253,6 @@ help,O
 Sentence #717,
 @,O
 DelhiPolice,O
-",",O
 despite,O
 the,O
 clear,O
@@ -20739,7 +20260,6 @@ instructions,O
 from,O
 @,O
 LtGovDelhi,O
-",",O
 here,O
 is,O
 an,O
@@ -20750,7 +20270,6 @@ Delhi,B-LOC
 jal,O
 board,O
 office,O
-",",O
 IP,B-LOC
 extension,I-LOC
 .,O
@@ -20776,7 +20295,6 @@ wheelers,O
 due,O
 to,O
 darkness,O
-",",O
 leading,O
 to,O
 accidents,O
@@ -21006,19 +20524,14 @@ LINE,O
 IN,O
 AIIMS,O
 X-ING,O
-",",O
 CON,O
 .,O
 PL.,O
-",",O
 DELHI,B-LOC
 GATE,I-LOC
-",",O
 DHOLA,B-LOC
 KUAN,I-LOC
-",",O
 ITO,B-LOC
-",",O
 ISBT,B-LOC
 Sentence #728,
 @,O
@@ -21030,7 +20543,6 @@ services,O
 .,O
 3,O
 AM,O
-",",O
 I,O
 was,O
 involved,O
@@ -21039,7 +20551,6 @@ the,O
 accident,O
 near,O
 ITO,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 Your,O
@@ -21085,7 +20596,6 @@ action,O
 pic.twitter.com/naCUb9D3LE,O
 Sentence #729,
 :,O
-",",O
 https,O
 :,O
 //aajtak.intoday.in/crime/story/delhi-driver-busy-talking-on-phone-car-struck-with-road-divider-1-980705.html,O
@@ -21135,9 +20645,7 @@ Lakshmi,B-LOC
 Nagar,I-LOC
 from,O
 ITO,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 blocked,O
 .,O
 Some,O
@@ -21147,7 +20655,6 @@ it,O
 seems,O
 .,O
 Police,O
-",",O
 fire,O
 brigade,O
 and,O
@@ -21184,7 +20691,6 @@ seen,O
 accident,O
 at,O
 ITO,B-LOC
-",",O
 Delhi,B-LOC
 http,O
 :,O
@@ -21285,13 +20791,10 @@ ON,O
 17th,B-TIM
 NOV,O
 '',O
-",2019",O
 AT,O
 ENGINEERS,O
 BHAWAN,O
-",",O
 ITO,B-LOC
-",",O
 NEW,B-LOC
 DELHI,I-LOC
 Sentence #736,
@@ -21384,7 +20887,6 @@ hours,O
 of,O
 February,B-TIM
 26,I-TIM
-",",O
 killing,O
 the,O
 40-year-old,O
@@ -21394,7 +20896,6 @@ and,O
 injuring,B-LOC
 13,I-LOC
 passengers,O
-",",O
 p,O
 Sentence #738,
 Delhi,B-LOC
@@ -21420,7 +20921,6 @@ Road,O
 accident,O
 near,O
 ITO,B-LOC
-"flyover,15",O
 injured,O
 http,O
 :,O
@@ -21430,7 +20930,6 @@ Sentence #740,
 :,O
 ITO,B-LOC
 -,O
-",",O
 Sentence #741,
 #,O
 Delhi,B-LOC
@@ -21441,8 +20940,7 @@ flyover,I-LOC
 #,O
 Accident,O
 Sentence #742,
-:,O
-",15",O
+:,Obstruction
 Sentence #743,
 #,O
 Delhi,B-LOC
@@ -21475,7 +20973,6 @@ Delhi,B-LOC
 At,O
 least,O
 2,O
-"dead,15",O
 injured,O
 in,O
 road,B-LOC
@@ -21494,7 +20991,6 @@ Road,B-LOC
 accident,O
 near,O
 ITO,B-LOC
-"flyover,15",O
 injured,O
 #,O
 Accident,O
@@ -21504,7 +21000,6 @@ https,O
 Sentence #747,
 Two,O
 killed,O
-",",O
 three,O
 injured,O
 in,O
@@ -21579,7 +21074,6 @@ expressway,I-LOC
 on,O
 Tuesday,B-TIM
 morning,I-TIM
-",",O
 a,O
 woman,O
 from,O
@@ -21612,7 +21106,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21639,7 +21132,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21647,7 +21139,6 @@ injured,O
 in,O
 the,O
 accident,O
-",",O
 http,O
 :,O
 //english.tahlkanews.com/delhi-dumper-truck-hits-motorcycle-jahangirpuri-area-two-bike-riders-injured-accident/40498,O
@@ -21662,7 +21153,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21687,7 +21177,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21708,7 +21197,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21730,7 +21218,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21750,7 +21237,6 @@ motorcycle,O
 in,O
 Jahangirpuri,B-LOC
 area,I-LOC
-",",O
 two,O
 bike,O
 riders,O
@@ -21768,7 +21254,6 @@ as,O
 775,O
 in,O
 Jahangirpuri,B-LOC
-",",O
 #,O
 Delhi,B-LOC
 &,O
@@ -21780,7 +21265,6 @@ cocktail,O
 for,O
 #,O
 accidents,O
-",",O
 #,O
 respiratory,O
 #,O
@@ -21889,7 +21373,6 @@ this,O
 Negligence,O
 and,O
 corruption,O
-",",O
 this,O
 accident,O
 occurred,O
@@ -22010,7 +21493,6 @@ Suri,I-PER
 from,O
 Jangpura,B-LOC
 extension,I-LOC
-",",O
 met,O
 with,O
 a,O
@@ -22043,7 +21525,6 @@ them,O
 in,O
 @,O
 babymhospital,O
-",",O
 support,O
 from,O
 Delhi,B-ORG
@@ -22122,7 +21603,6 @@ accident,O
 victim,O
 at,O
 Apollo_Hospital,B-LOC
-",",O
 Jasola,B-LOC
 .,O
 Pl,O
@@ -22144,9 +21624,7 @@ being,O
 operated,O
 at,O
 Apollo,B-LOC
-",",O
 Jasola,B-LOC
-",",O
 Delhi,B-LOC
 ...,O
 Many,O
@@ -22172,9 +21650,7 @@ being,O
 operated,O
 at,O
 Apollo,B-LOC
-",",O
 Jasola,B-LOC
-",",O
 Delhi,B-ORG
 ..,O
 many,O
@@ -22359,13 +21835,10 @@ Windows,O
 at,O
 Videocon,B-LOC
 Tower,I-LOC
-",",O
 Jhandewalan,B-LOC
-",",O
 broke,O
 on,O
 today,B-TIM
-",",O
 killing,O
 two,O
 labourers,O
@@ -22378,7 +21851,6 @@ at,O
 13th,O
 floor,O
 height,O
-",",O
 leaving,O
 no,O
 chance,O
@@ -22601,7 +22073,6 @@ hai,O
 esic,O
 nandnagri,O
 Delhi,B-LOC
-",",O
 mera,O
 ilaaj,O
 ESI,B-LOC
@@ -22877,7 +22348,6 @@ kalindi,B-LOC
 kunj,I-LOC
 #,O
 delhi,O
-",",O
 it,O
 was,O
 too,O
@@ -22933,7 +22403,6 @@ to,O
 Kalindi,B-LOC
 Kunj,I-LOC
 road,I-LOC
-",",O
 autos,O
 ply,O
 with,O
@@ -22941,14 +22410,12 @@ over,O
 loading,O
 of,O
 passengers,O
-",",O
 putting,O
 lives,O
 of,O
 people,O
 in,O
 danger,O
-",",O
 auto,O
 also,O
 breaking,O
@@ -23029,7 +22496,6 @@ before,O
 Okhla,B-LOC
 Bird,I-LOC
 sanctuary,I-LOC
-",",O
 Noida,B-LOC
 while,O
 coming,O
@@ -23077,7 +22543,6 @@ side,O
 No,O
 police,O
 presence,O
-",",O
 continuous,O
 wrong,O
 side,O
@@ -23444,9 +22909,7 @@ same,O
 .,O
 Long,O
 jams,O
-",",O
 accidents,O
-",",O
 all,O
 are,O
 results,O
@@ -23738,7 +23201,6 @@ Sentence #823,
 Sudden,B-ORG
 Death,I-ORG
 Skips,I-ORG
-",",I-ORG
 Faced,I-ORG
 Major,I-ORG
 Accident,I-ORG
@@ -23748,7 +23210,6 @@ lucky,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 http,O
@@ -23828,7 +23289,6 @@ dead,O
 are,O
 poor,O
 people,O
-",",O
 AAP,B-ORG
 Government,I-ORG
 will,O
@@ -23868,7 +23328,6 @@ daily,O
 affair,O
 in,O
 Delhi,B-LOC
-",",O
 no,O
 footpaths,O
 are,O
@@ -23885,7 +23344,6 @@ on,O
 the,O
 road,O
 instead,O
-",",O
 this,O
 may,O
 result,O
@@ -23901,7 +23359,6 @@ taken,O
 ),O
 :,O
 P-113,B-LOC
-",",O
 near,O
 Karol,B-LOC
 Bagh,I-LOC
@@ -23931,7 +23388,6 @@ https,O
 Similarly,O
 in,O
 Delhi,B-LOC
-",",O
 social,O
 welfare,O
 institutions,O
@@ -23955,7 +23411,6 @@ safetyacademyin,O
 Sentence #828,
 #,O
 Suratfire,O
-",",O
 #,O
 surat,B-LOC
 @,O
@@ -23981,10 +23436,8 @@ Nexus,O
 of,O
 municipal,O
 authorities,O
-",",O
 fire,O
 department,O
-",",O
 politician,O
 n,O
 corrupt,O
@@ -24009,7 +23462,6 @@ Branch,I-ORG
 arrest,O
 Rakesh,B-PER
 Goel,I-PER
-",",O
 owner,O
 of,O
 Hotel,B-ORG
@@ -24089,7 +23541,6 @@ in,O
 Karol,B-LOC
 Bagh,I-LOC
 hotel,I-LOC
-",",O
 fire,O
 in,O
 Delhi,B-LOC
@@ -24102,9 +23553,7 @@ lots,O
 their,O
 residing,O
 place,O
-",",O
 accident,O
-",",O
 death,O
 in,O
 up,O
@@ -24148,7 +23597,6 @@ Karol,B-LOC
 Bagh,I-LOC
 on,O
 Feb,O
-"12,2019",O
 .,O
 Follow,O
 the,O
@@ -24180,7 +23628,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24389,7 +23836,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24428,7 +23874,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24474,7 +23919,6 @@ accident,O
 in,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 Heartfelt,O
@@ -24512,7 +23956,6 @@ accident,O
 of,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24549,7 +23992,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24631,7 +24073,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24710,7 +24151,6 @@ accident,O
 at,O
 Karol,B-LOC
 Bagh,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 My,O
@@ -24778,7 +24218,6 @@ Sentence #850,
 UPDATE,O
 :,O
 2,O
-"dead,3",O
 injured,O
 in,O
 accident,O
@@ -24790,14 +24229,11 @@ Gate,I-LOC
 ;,O
 the,O
 driver,O
-",",O
 a,O
 Class,O
 12,O
 student,O
-",",O
 apprehended,O
-",",O
 reports,O
 ANI,O
 Sentence #851,
@@ -24806,7 +24242,6 @@ timesofindia,O
 UPDATE,O
 :,O
 2,O
-"dead,3",O
 injured,O
 in,O
 accident,O
@@ -24818,21 +24253,17 @@ Gate,I-LOC
 ;,O
 the,O
 driver,O
-",",O
 a,O
 Class,O
 12,O
 student,O
-",",O
 apprehended,O
-",",O
 reports,O
 ANI,O
 Sentence #852,
 UPDATE,O
 :,O
 2,O
-"dead,3",O
 injured,O
 in,O
 accident,O
@@ -24844,14 +24275,11 @@ Gate,I-LOC
 ;,O
 the,O
 driver,O
-",",O
 a,O
 Class,O
 12,O
 student,O
-",",O
 apprehended,O
-",",O
 reports,O
 ANI,O
 Sentence #853,
@@ -24867,7 +24295,6 @@ accident,O
 @,O
 Kashmere,B-LOC
 Gate,I-LOC
-",",O
 Delhi,B-LOC
 http,O
 :,O
@@ -24904,9 +24331,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,O
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -24930,9 +24355,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,O
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -24956,9 +24379,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,B-LOC
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -24982,9 +24403,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,B-LOC
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -25008,9 +24427,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,B-LOC
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -25034,9 +24451,7 @@ kashmere,B-LOC
 gate,I-LOC
 auto,O
 market,B-LOC
-",",O
 delhi,B-LOC
-",",O
 leading,O
 to,O
 vehicle,O
@@ -25050,7 +24465,6 @@ Sentence #861,
 Due,O
 to,O
 agitation,O
-",",O
 Delhi-Mumbai,B-LOC
 train,I-LOC
 rout,O
@@ -25062,7 +24476,6 @@ to,O
 accident,O
 at,O
 Kaushambi,B-LOC
-",",O
 Delhi-Hawrah,B-LOC
 route,O
 is,O
@@ -25089,7 +24502,6 @@ in,O
 Kaushambi,B-LOC
 4,O
 killed,O
-",",O
 several,O
 injured,O
 ...,O
@@ -25266,9 +24678,7 @@ Junior,O
 classes,O
 from,O
 Vaishali,B-LOC
-",",O
 Kaushambi,B-LOC
-",",O
 Vasundhara,B-ORG
 &,I-ORG
 Indirapuram,I-ORG
@@ -25327,7 +24737,6 @@ footpaths,O
 in,O
 keshav,B-LOC
 puram,I-LOC
-",",O
 trinagar,B-LOC
 north,I-LOC
 west,B-LOC
@@ -25383,7 +24792,6 @@ a,O
 complaint,O
 .,O
 However,O
-",",O
 the,O
 DTP,B-ORG
 must,O
@@ -25648,7 +25056,6 @@ happen,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jan,B-PER
 12,O
 (,O
@@ -25671,7 +25078,6 @@ rage,O
 Khan,B-LOC
 Market,I-LOC
 shocked,O
-",",O
 killer,O
 pilot,O
 granted,O
@@ -25706,7 +25112,6 @@ in,O
 an,O
 car,O
 accident,O
-",",O
 a,O
 pilot,O
 of,O
@@ -25720,10 +25125,8 @@ delhi,O
 #,O
 traffic,O
 .BARAPULAH,O
-",",O
 BARAPULAH,O
 ROAD,O
-",",O
 ACCIDENT,O
 CAUSING,O
 DELAY,O
@@ -25735,7 +25138,6 @@ KHAN,I-LOC
 Sentence #880,
 AJAD,B-LOC
 MARKET,I-LOC
-",",O
 GOING,O
 ...,O
 http,O
@@ -25824,10 +25226,8 @@ air,O
 and,O
 rivers,O
 clean,O
-",",O
 roads,O
 empty,O
-",",O
 Nil,B-LOC
 road,I-LOC
 accidents,O
@@ -25859,7 +25259,6 @@ Accident,O
 in,O
 Kirti,B-LOC
 Nagar,I-LOC
-",",O
 Delhi,B-LOC
 |,O
 TV5,B-ORG
@@ -25878,13 +25277,11 @@ arrested,O
 one,O
 Sudhir,B-PER
 Kumar,I-PER
-",",O
 in,O
 connection,O
 with,O
 an,O
 accident,O
-",",O
 in,O
 which,O
 one,O
@@ -26015,7 +25412,6 @@ South,B-LOC
 Delhi,I-LOC
 proved,O
 that,O
-",",O
 le,O
 ...,O
 http,O
@@ -26129,15 +25525,11 @@ such,O
 accidents,O
 .,O
 Saidullajab,B-LOC
-",",O
 Saket,B-LOC
-",",O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
-",",O
 Tilak,B-LOC
 Nagar,I-LOC
 new,B-LOC
@@ -26145,18 +25537,14 @@ mor,I-LOC
 Sentence #894,
 PWD,B-LOC
 flyover,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
 Delhi,I-LOC
 -,O
 Sentence #895,
-",",O
-",",O
 ...,O
 Sentence #896,
 Accidents,O
-",",O
 Sentence #897,
 LG,O
 ...,O
@@ -26171,18 +25559,14 @@ hindumkn,O
 Sentence #898,
 PWD,B-LOC
 flyover,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
 Delhi,I-LOC
 -,I-LOC
 Sentence #899,
-",",O
-",",O
 ...,O
 Sentence #900,
 Accidents,O
-",",O
 Sentence #901,
 LG,O
 ...,O
@@ -26222,10 +25606,8 @@ fast,O
 At,O
 Moolchand,B-LOC
 hospital,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
-",",O
 #,O
 Delhi,B-LOC
 Sentence #903,
@@ -26274,7 +25656,6 @@ dangerous,O
 due,O
 Chinese,B-GPE
 Dhaga,O
-",",O
 who,O
 is,O
 very,O
@@ -26368,7 +25749,6 @@ big,O
 impact,O
 .,O
 Luckly,O
-",",O
 I,O
 am,O
 safe,O
@@ -27150,7 +26530,6 @@ Instead,O
 of,O
 correcting,O
 itself,O
-",",O
 It,O
 became,O
 shameless,O
@@ -27169,7 +26548,6 @@ help,O
 in,O
 building,O
 accident,O
-",",O
 Laxmi,B-LOC
 Nagar,I-LOC
 New,B-LOC
@@ -27282,7 +26660,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Aug,B-LOC
 19,O
 (,O
@@ -27398,7 +26775,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 August,B-TIM
 18,I-TIM
 A,O
@@ -27628,7 +27004,6 @@ Sentence #951,
 @,O
 nitin_gadkari,O
 Sir,O
-",",O
 I,O
 am,O
 born,O
@@ -27637,7 +27012,6 @@ brought,O
 up,O
 at,O
 Tamei,B-LOC
-",",O
 Manipur,B-LOC
 and,O
 presently,O
@@ -27706,7 +27080,6 @@ YouTube,O
 Delhi,B-LOC
 Metro,I-LOC
 accident,O
-",",O
 Malviya,B-LOC
 Nagar,I-LOC
 -,O
@@ -27733,7 +27106,6 @@ Delhi,B-LOC
 's,O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 accused,O
 arrested,O
 https,O
@@ -27753,7 +27125,6 @@ Delhi,B-LOC
 's,O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 accused,O
 arrested,O
 https,O
@@ -27766,7 +27137,6 @@ Sentence #956,
 A,O
 52-year-old,O
 doctor,O
-",",O
 served,O
 as,O
 a,O
@@ -27780,7 +27150,6 @@ back,O
 home,O
 from,O
 work,O
-",",O
 was,O
 killed,O
 in,O
@@ -27795,11 +27164,9 @@ Monday,B-TIM
 .,O
 The,O
 doctor,O
-",",O
 Jai,B-PER
 Prakash,I-PER
 Yadav,I-PER
-",",O
 was,O
 posted,O
 at,O
@@ -27829,7 +27196,6 @@ bike,O
 in,O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 Delhi,B-LOC
 .,O
 You,O
@@ -27847,7 +27213,6 @@ come,O
 to,O
 your,O
 neck,O
-",",O
 choke,O
 you,O
 and,O
@@ -27913,7 +27278,6 @@ around,O
 pm,O
 .,O
 Fortunately,O
-",",O
 none,O
 of,O
 us,O
@@ -27936,7 +27300,6 @@ area,I-LOC
 of,O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 hope,O
 Government,B-ORG
 of,I-ORG
@@ -28019,15 +27382,11 @@ such,O
 accidents,O
 .,O
 Saidullajab,B-LOC
-",",O
 Saket,B-LOC
-",",O
 Malviya,B-LOC
 Nagar,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
-",",O
 Tilak,B-LOC
 Nagar,I-LOC
 new,I-LOC
@@ -28175,7 +27534,6 @@ one,O
 near,O
 Mandi,B-LOC
 House,I-LOC
-",",O
 accident,O
 caught,O
 on,O
@@ -28292,13 +27650,10 @@ delhi,B-LOC
 traffic,O
 RING,B-LOC
 ROAD,I-LOC
-",",O
 NEAR,O
 NARINA,B-LOC
-",",O
 AN,O
 ACCIDENT,O
-",",O
 CAUSING,O
 SLOW,O
 MOVEMENT,O
@@ -28370,7 +27725,6 @@ the,O
 Mayapuri,B-LOC
 radiation,O
 accident,O
-",",O
 Government,B-ORG
 today,B-TIM
 said,O
@@ -28386,14 +27740,11 @@ ManojTiwariMP,O
 @,O
 mssirsa,O
 Sir,O
-",",O
 I,O
 reside,O
 in,O
 Mayapuri,B-LOC
-",",O
 Delhi,B-LOC
-",",O
 where,O
 we,O
 are,O
@@ -28451,7 +27802,6 @@ fort,I-LOC
 Harley,B-LOC
 Delhi,I-LOC
 Mayapuri,I-LOC
-",",O
 on,O
 30th,B-TIM
 may,O
@@ -28506,7 +27856,6 @@ fort,B-LOC
 Harley,B-ORG
 Delhi,B-LOC
 Mayapuri,I-LOC
-",",O
 on,O
 30th,B-TIM
 may,O
@@ -28583,7 +27932,6 @@ Sentence #981,
 In,O
 April,B-TIM
 2010,I-TIM
-",",O
 locality,O
 of,O
 Mayapuri,B-LOC
@@ -28608,7 +27956,6 @@ but,O
 unused,O
 since,B-TIM
 1985,I-TIM
-",",O
 was,O
 sold,O
 at,O
@@ -28621,7 +27968,6 @@ in,O
 Mayapuri,B-LOC
 on,O
 Feb,O
-"26,2010",O
 Sentence #982,
 #,O
 Breaking,O
@@ -28634,7 +27980,6 @@ construction,O
 site,O
 in,O
 Mayapuri,B-LOC
-",",O
 '',O
 5,O
 injured,O
@@ -28655,7 +28000,6 @@ construction,O
 site,O
 in,O
 Mayapuri,B-LOC
-",",O
 5,O
 injured.,O
 #,O
@@ -28672,10 +28016,8 @@ Metro,I-LOC
 construction,O
 site,O
 in,O
-",O
 Mayapuri,B-LOC
 5,O
-",O
 injured,O
 .,O
 Sentence #985,
@@ -28686,10 +28028,8 @@ Metro,I-LOC
 project,O
 site,O
 in,O
-",O
 Mayapuri,B-LOC
 3,B-LOC
-",O
 workers,O
 injured,O
 .,O
@@ -28715,7 +28055,6 @@ Accident,O
 on,O
 the,O
 road,B-LOC
-",",O
 Those,O
 coming,O
 from,O
@@ -28830,7 +28169,6 @@ id=586093893,O
 Sentence #990,
 Delhi,B-LOC
 people,O
-",",O
 avoid,O
 using,O
 Rajauri,B-LOC
@@ -28864,14 +28202,11 @@ team,O
 in,O
 A,B-LOC
 block,I-LOC
-",",O
 Mayapuri,B-LOC
 Industrial,I-LOC
 Area,I-LOC
-",",O
 Phase,B-LOC
 1,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -28886,7 +28221,6 @@ Sentence #992,
 Yaiskul,B-PER
 Kendra,I-PER
 MLA,I-PER
-",",O
 Elangbam,B-ORG
 Suraj,I-ORG
 died,O
@@ -28921,7 +28255,6 @@ Accident,O
 at,O
 mayur,B-LOC
 vihar,I-LOC
-",",O
 new,B-LOC
 delhi,I-LOC
 Sentence #994,
@@ -28965,7 +28298,6 @@ accident,O
 near,O
 Mayur,B-LOC
 vihar,I-LOC
-",",O
 slow,O
 #,O
 traffic,O
@@ -29045,7 +28377,6 @@ Phase,I-LOC
 Sentence #999,
 In,O
 Delhi,B-LOC
-",",O
 so,O
 many,O
 ppl,O
@@ -29054,7 +28385,6 @@ on,O
 road,O
 accidents,O
 daily,O
-",",O
 no,O
 reaction,O
 from,O
@@ -29141,7 +28471,6 @@ colony,O
 near,O
 Mayur,B-LOC
 Vihar,I-LOC
-",",O
 Noida,B-LOC
 road,I-LOC
 is,O
@@ -29259,9 +28588,7 @@ OCCURED,O
 IN,O
 MAYUR,B-LOC
 VIHAR,I-LOC
-",",O
 DELHI,B-LOC
-",",O
 YESTERDAY,O
 .,O
 .,O
@@ -29408,7 +28735,6 @@ Phase,I-LOC
 1,I-LOC
 Extension,I-LOC
 flyover,I-LOC
-",",O
 blame,O
 the,O
 Delhi,B-ORG
@@ -29488,14 +28814,12 @@ way,O
 to,O
 Greater,B-LOC
 Noida,I-LOC
-",",O
 otherwise,O
 people,O
 take,O
 U-turn,O
 from,O
 wrongside,O
-",",O
 May,B-TIM
 lead,O
 to,O
@@ -29511,15 +28835,11 @@ DelhiPolice,O
 everyday,O
 traffic,O
 jam,O
-",",O
 accident,O
-",",O
 rash,O
 driving,O
-",",O
 teenage,O
 driving,O
-",",O
 mayur,B-LOC
 vihar,I-LOC
 phase,I-LOC
@@ -29630,7 +28950,6 @@ accident,O
 :,O
 Six,O
 dead,O
-",",O
 three,O
 injured,O
 after,O
@@ -29649,7 +28968,6 @@ pic.twitter.com/vZbBLoWvSS,O
 Sentence #1023,
 Six,O
 dead,O
-",",O
 three,O
 injured,O
 in,O
@@ -29711,7 +29029,6 @@ to,O
 Delhi,B-LOC
 on,O
 DND,B-LOC
-",",O
 daily,O
 two,O
 and,O
@@ -29737,7 +29054,6 @@ Mayur,B-LOC
 Vihar,I-LOC
 to,O
 Delhi,B-LOC
-",",O
 accident,O
 before,O
 the,O
@@ -29806,7 +29122,6 @@ mayur,B-LOC
 vihar,I-LOC
 phase,I-LOC
 1,I-LOC
-",",O
 delhi,B-LOC
 .,O
 Sentence #1032,
@@ -29814,7 +29129,6 @@ Baby,O
 gaumata,O
 accident,O
 happened,O
-",",O
 @,O
 DelhiPolice,O
 made,O
@@ -30208,7 +29522,6 @@ Phase,I-LOC
 1,I-LOC
 Extension,I-LOC
 flyover,I-LOC
-",",O
 blame,O
 the,O
 Delhi,B-ORG
@@ -30409,7 +29722,6 @@ narendramodi,O
 dtptraffic,O
 Hi,B-PER
 Sir,I-PER
-",",O
 I,O
 am,O
 inform,O
@@ -30479,7 +29791,6 @@ N,B-LOC
 Delhi,B-LOC
 .,O
 Ambulances,O
-",",O
 @,O
 dtptraffic,O
 &,O
@@ -30498,7 +29809,6 @@ at,O
 MG,B-LOC
 Marg,I-LOC
 intersection,O
-",",O
 no,O
 police,O
 presence,O
@@ -30519,7 +29829,6 @@ news18dotcom,O
 dcptsr,O
 Sentence #1051,
 sir,O
-",",O
 pls,O
 look,O
 into,O
@@ -30539,7 +29848,6 @@ this,O
 is,O
 for,O
 75-S,O
-",",O
 model,B-LOC
 town,I-LOC
 Hisar,B-LOC
@@ -30876,7 +30184,6 @@ accident,O
 Sentence #1059,
 Horrific,O
 Accident,O
-",",O
 Speeding,O
 Car,O
 Crushed,O
@@ -30884,9 +30191,7 @@ Pedestrians,O
 In,O
 Model,B-LOC
 Town,I-LOC
-",",O
 Delhi,B-LOC
-",",O
 https,O
 :,O
 //bbchindi.in/horrific-accident-speeding-car-crushed-pedestrians-in-model-town-delhi-,O
@@ -31016,7 +30321,6 @@ site,O
 coordinate,O
 s,O
 are,O
-"28.712569,77.193755",O
 and,O
 is,O
 on,O
@@ -31129,10 +30433,8 @@ accident,O
 near,O
 Mohan,B-LOC
 Estate,I-LOC
-",",O
 Mathura,B-LOC
 Road,I-LOC
-",",O
 Delhi,B-LOC
 Sentence #1065,
 Truck,O
@@ -31213,7 +30515,6 @@ dilshad,B-LOC
 garden,I-LOC
 metro,B-LOC
 station,I-LOC
-",",O
 Delhi,B-LOC
 to,O
 Mohan,B-LOC
@@ -31270,9 +30571,7 @@ site,O
 in,O
 Mohan,B-LOC
 Nagar,I-LOC
-",",O
 Ghaziabad,B-LOC
-",",O
 adjacent,O
 to,O
 Delhi,B-PER
@@ -31295,17 +30594,13 @@ cover,O
 broken,O
 at,O
 10/117,O
-",",O
 Patel,B-LOC
 Street,I-LOC
-",",O
 CBD,B-LOC
 Vishwas,B-LOC
 Nagar,I-LOC
-",",O
 New,B-LOC
 Delhi-92,I-LOC
-",",O
 making,O
 it,O
 accident,O
@@ -31314,7 +30609,6 @@ area,O
 mainly,O
 for,O
 children,O
-",",O
 sr,O
 citizen,O
 &,O
@@ -31324,7 +30618,6 @@ Area,O
 comes,O
 under,O
 EE,O
-",",O
 East-II,O
 of,O
 DJB,B-ORG
@@ -31350,17 +30643,13 @@ cover,O
 broken,O
 at,O
 10/117,O
-",",O
 Patel,B-LOC
 Street,I-LOC
-",",O
 CBD,B-LOC
 Vishwas,B-LOC
 Nagar,I-LOC
-",",O
 New,B-LOC
 Delhi-92,I-LOC
-",",O
 making,O
 it,O
 accident,O
@@ -31369,7 +30658,6 @@ area,O
 mainly,O
 for,O
 children,O
-",",O
 sr,O
 citizen,O
 &,O
@@ -31379,7 +30667,6 @@ Area,O
 comes,O
 under,O
 EE,O
-",",O
 East-II,B-LOC
 of,O
 DJB,B-ORG
@@ -31405,17 +30692,13 @@ cover,O
 broken,O
 at,O
 10/117,O
-",",O
 Patel,B-LOC
 Street,I-LOC
-",",O
 CBD,B-ORG
 Vishwas,B-LOC
 Nagar,I-LOC
-",",O
 New,B-LOC
 Delhi-92,I-LOC
-",",O
 making,O
 it,O
 accident,O
@@ -31424,7 +30707,6 @@ area,O
 mainly,O
 for,O
 children,O
-",",O
 sr,O
 citizen,O
 &,O
@@ -31434,7 +30716,6 @@ Area,O
 comes,O
 under,O
 EE,O
-",",O
 East-II,B-LOC
 of,O
 DJB,B-ORG
@@ -31476,7 +30757,6 @@ dumper,O
 messed,O
 up,O
 road,B-LOC
-",",O
 cars,O
 to,O
 shits,O
@@ -31571,7 +30851,6 @@ Sentence #1078,
 SatyendarJain,O
 @,O
 AamAadmiParty,O
-",",O
 @,O
 DelhiPolice,O
 Moolchand,B-LOC
@@ -31586,7 +30865,6 @@ Delhi,B-LOC
 arogya,O
 Kosh,O
 scheme,O
-",",O
 a,O
 friend,O
 who,O
@@ -31646,10 +30924,8 @@ fast,O
 At,O
 Moolchand,B-LOC
 hospital,I-LOC
-",",O
 Lajpat,B-LOC
 Nagar,I-LOC
-",",O
 #,O
 Delhi,B-LOC
 Sentence #1080,
@@ -31712,7 +30988,6 @@ Sentence #1082,
 DCPSouthDelhi,O
 My,O
 request,O
-",",O
 please,O
 close,O
 U,O
@@ -31746,7 +31021,6 @@ towards,O
 SRI,B-LOC
 FORT,I-LOC
 road,I-LOC
-",",O
 it,O
 might,O
 result,O
@@ -31875,7 +31149,6 @@ centre,O
 Sri,B-ORG
 Durga,I-ORG
 Automobiles,I-ORG
-",",O
 Moti,B-LOC
 Nagar,I-LOC
 Delhi,B-LOC
@@ -31888,7 +31161,6 @@ on,O
 time,O
 paid,O
 and,O
-"free,2times",O
 my,O
 vehicle,O
 got,O
@@ -31977,7 +31249,6 @@ Noida,B-LOC
 at,O
 11:45,O
 PM,O
-",",O
 then,O
 immediately,O
 I,O
@@ -31995,7 +31266,6 @@ Skoda,I-PER
 Moti,B-LOC
 Nagar,I-LOC
 Delhi,B-LOC
-",",O
 he,O
 not,O
 only,O
@@ -32099,15 +31369,12 @@ center,I-LOC
 name,O
 RR,B-ORG
 AUTOMOBILES,I-ORG
-",",O
 moti,B-LOC
 nagar,I-LOC
-",",O
 new,B-LOC
 delhi,O
 .,O
 ,I-LOC
-",",O
 they,O
 have,O
 painted,O
@@ -32195,7 +31462,6 @@ mere,O
 goons,O
 and,O
 hooligans,O
-",",O
 I,O
 am,O
 flabbergasted,O
@@ -32248,7 +31514,6 @@ by,O
 a,O
 lady,O
 driver,O
-",",O
 see,O
 the,O
 courage,O
@@ -32284,7 +31549,6 @@ by,O
 a,O
 lady,O
 driver,O
-",",O
 see,O
 the,O
 courage,O
@@ -32332,7 +31596,6 @@ in,O
 Mew,O
 Moti,B-LOC
 Nagar,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -32495,7 +31758,6 @@ Delhi,B-LOC
 Mundka,B-LOC
 last,O
 night,B-TIM
-",",O
 driver,O
 dead,O
 #,O
@@ -32611,7 +31873,6 @@ the,O
 pictures,O
 of,O
 Mundka,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 The,O
@@ -32664,7 +31925,6 @@ the,O
 pictures,O
 of,O
 Mundka,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 The,O
@@ -32799,7 +32059,6 @@ the,O
 outer,B-LOC
 ring,I-LOC
 road,I-LOC
-",",O
 near,O
 Munirka,B-LOC
 .,O
@@ -32811,7 +32070,6 @@ Vihar,I-LOC
 side,O
 towards,O
 IIT,B-LOC
-",",O
 take,O
 alternate,O
 route,O
@@ -32885,7 +32143,6 @@ a,O
 very,O
 drunken,O
 state,O
-",",O
 and,O
 could,O
 n't,O
@@ -32896,7 +32153,6 @@ Time,O
 of,O
 accident,O
 6.30,O
-"AM,12",B-ORG
 Mar,O
 17,O
 .,O
@@ -33111,7 +32367,6 @@ cheel,O
 gaye,O
 delhi,B-LOC
 me,O
-",",O
 Bich,O
 me,O
 munirka,B-LOC
@@ -33129,7 +32384,6 @@ Dr,B-PER
 J,I-PER
 P,I-PER
 Yadav,I-PER
-",",O
 a,O
 senior,O
 doctor,O
@@ -33141,7 +32395,6 @@ Delhi,I-ORG
 (,O
 MCD,B-ORG
 ),O
-",",O
 was,O
 killed,O
 in,O
@@ -33172,16 +32425,13 @@ ManojTiwariMP,O
 Sentence #1132,
 @,O
 DelhiPwd,O
-",",O
 @,O
 kejriwalDelhicm,O
 Sir,O
-",",O
 here,O
 in,O
 South,B-LOC
 Delhi,I-LOC
-",",O
 Munirka,B-LOC
 flyover,I-LOC
 and,O
@@ -33191,7 +32441,6 @@ road,O
 condition,O
 so,O
 bad,O
-",",O
 few,O
 days,O
 ago,O
@@ -33202,7 +32451,6 @@ road,O
 repair,O
 but,O
 stopped,O
-",",O
 both,O
 flyover,I-LOC
 roads,O
@@ -33211,7 +32459,6 @@ really,O
 in,O
 bad,O
 condition,O
-",",O
 risk,O
 of,O
 accident,O
@@ -33229,12 +32476,10 @@ Sentence #1133,
 @,O
 pwddelhi,O
 Sir,O
-",",O
 here,O
 in,O
 South,B-LOC
 Delhi,I-LOC
-",",O
 Munirka,B-LOC
 flyover,I-LOC
 and,O
@@ -33245,7 +32490,6 @@ condition,O
 is,O
 so,O
 bad,O
-",",O
 few,O
 days,O
 ago,O
@@ -33257,7 +32501,6 @@ repair,O
 but,O
 stopped,O
 now,O
-",",O
 both,O
 flyover,I-LOC
 roads,O
@@ -33266,7 +32509,6 @@ really,O
 in,O
 bad,O
 condition,O
-",",O
 risk,O
 of,O
 accident,O
@@ -33369,9 +32611,7 @@ Sentence #1137,
 PMOIndia,O
 Shikarpur,B-LOC
 Village,I-LOC
-",",O
 Najafgarh,B-LOC
-",",O
 Delhi,B-LOC
 does,O
 n't,O
@@ -33386,7 +32626,6 @@ road,B-LOC
 .,O
 Eve,O
 teasing,O
-",",O
 accident,O
 are,O
 major,O
@@ -33403,9 +32642,7 @@ resident,O
 of,O
 Shikarpur,B-LOC
 Village,I-LOC
-",",O
 Najafgarh,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 No,O
@@ -33424,7 +32661,6 @@ issue,O
 Sentence #1139,
 Navneet,B-PER
 Kumar,I-PER
-",",O
 resident,O
 of,O
 Delhi,B-LOC
@@ -33435,7 +32671,6 @@ averted,O
 a,O
 major,O
 accident,O
-",",O
 as,O
 he,O
 immediat,O
@@ -33498,7 +32733,6 @@ Sentence #1141,
 @,O
 sudhirchaudhary,O
 Sir,O
-",",O
 yesterday,O
 i,O
 have,O
@@ -33515,7 +32749,6 @@ traffic,O
 official,O
 at,O
 Najafgarh,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 What,O
@@ -33552,7 +32785,6 @@ Sentence #1142,
 @,O
 narendramodi,O
 Sir,O
-",",O
 yesterday,O
 i,O
 have,O
@@ -33570,7 +32802,6 @@ traffic,O
 official,O
 at,O
 Najafgarh,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 What,O
@@ -33607,7 +32838,6 @@ Sentence #1143,
 @,O
 nitin_gadkari,O
 Sir,O
-",",O
 yesterday,O
 i,O
 have,O
@@ -33625,7 +32855,6 @@ traffic,B-PER
 official,I-PER
 at,O
 Najafgarh,B-LOC
-",",O
 Delhi,B-LOC
 .,O
 What,O
@@ -33721,7 +32950,6 @@ Sentence #1145,
 SatyendarJain,O
 hello,O
 sir,O
-",",O
 Najafgarh,B-LOC
 Nangloi,B-LOC
 road,I-LOC
@@ -33735,7 +32963,6 @@ park,I-LOC
 m,O
 aata,O
 h,O
-",",O
 pardeep,B-PER
 16-09-2019,O
 Ko,O
@@ -33790,10 +33017,8 @@ Dwarka,B-LOC
 need,O
 road,O
 repair,O
-",",O
 Dabri,B-LOC
 mod,I-LOC
-",",O
 Bijwasan,B-LOC
 and,O
 Najafgarh,B-LOC
@@ -33809,19 +33034,16 @@ people,O
 time,O
 in,O
 jams,O
-",",O
 also,O
 causing,O
 dust,O
 pollution,O
-",",O
 pollution,O
 due,O
 to,O
 extra,O
 fuel,O
 burning,O
-",",O
 accidents,O
 at,O
 night,B-TIM
@@ -33947,7 +33169,6 @@ proj,O
 .,O
 in,O
 Z-block,B-LOC
-",",O
 Najafgarh,B-LOC
 but,O
 6mos,O
@@ -33960,11 +33181,8 @@ and,O
 drain,O
 are,O
 damaged,O
-",",O
 pollution,O
-",",O
 accidents,O
-",",O
 vehicle,O
 damage,O
 .,O
@@ -33996,7 +33214,6 @@ ENCLAVE,I-LOC
 UNDER,O
 NAJAFGARH,B-LOC
 ZONE,I-LOC
-",",O
 NORTH,B-ORG
 DELHI,I-ORG
 MUNICIPAL,I-ORG
@@ -34012,11 +33229,9 @@ MCD,B-ORG
 AND,O
 LOCAL,O
 POLICE,B-PER
-",",O
 PCR,O
 .,O
 BUT,O
-",",O
 NO,O
 EFFECTIVE,O
 ACTION,O
@@ -34060,7 +33275,6 @@ this,O
 Negligence,O
 and,O
 corruption,O
-",",O
 this,O
 accident,O
 occurred,O
@@ -34100,7 +33314,6 @@ bike,O
 accident,O
 in,O
 Nangloi,B-LOC
-",",O
 Delhi,B-LOC
 .,I-LOC
 1,I-LOC
@@ -34186,9 +33399,7 @@ service,O
 in,O
 shivram,B-LOC
 Park,I-LOC
-",",O
 Nangloi,B-LOC
-",",O
 delhi,B-LOC
 .,O
 They,O
@@ -34268,7 +33479,6 @@ Sentence #1157,
 SatyendarJain,O
 hello,O
 sir,O
-",",O
 Najafgarh,B-LOC
 Nangloi,I-LOC
 road,I-LOC
@@ -34282,7 +33492,6 @@ park,I-LOC
 m,O
 aata,O
 h,O
-",",O
 pardeep,B-PER
 16-09-2019,O
 Ko,O
@@ -34497,13 +33706,10 @@ my,O
 Flat,O
 's,O
 balcony,O
-",",O
 H,B-LOC
 244,I-LOC
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
-",",O
 next,O
 day,O
 i,O
@@ -34532,18 +33738,14 @@ Sentence #1162,
 tweetndmc,O
 @,O
 ChhailBihari_G,O
-",",O
 House,B-LOC
 No,I-LOC
 .,I-LOC
 B-168,B-LOC
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
-",",O
 is,O
 shattering,O
 the,O
@@ -34556,7 +33758,6 @@ Swach,B-MISC
 Bharat,I-MISC
 Abhiyan,I-MISC
 ),O
-",",O
 even,O
 the,O
 wall,O
@@ -34598,7 +33799,6 @@ Year,O
 2014,O
 Km,O
 :,O
-"18,000",O
 Fuel,O
 :,O
 Petrol,O
@@ -34626,10 +33826,8 @@ Sentence #1164,
 Visit,O
 :,O
 E30,B-LOC
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
-",",O
 Delhi,B-LOC
 -110028,I-LOC
 #,O
@@ -34657,7 +33855,6 @@ no,O
 DL,B-LOC
 Km,O
 :,O
-"33,000",O
 Fuel,O
 :,O
 Diesel,O
@@ -34684,10 +33881,8 @@ Sentence #1167,
 Visit,O
 :,O
 E30,B-LOC
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
-",",O
 Delhi,B-LOC
 -110028,I-LOC
 Sentence #1168,
@@ -34713,14 +33908,11 @@ Petrol,O
 fuel,O
 Reverse,O
 Camera,O
-",",O
 Panaromic,O
 Sunroof,O
-",",O
 Brand,B-LOC
 new,I-LOC
 condition,O
-",",O
 With,O
 the,O
 company,O
@@ -34737,7 +33929,6 @@ Sentence #1170,
 Visit,O
 :,O
 E-30,B-PER
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
 New,B-LOC
@@ -34774,10 +33965,8 @@ victims,O
 with,O
 Kapoor,B-LOC
 Hospital,I-LOC
-",",O
 Naraina,B-LOC
 Vihar,I-LOC
-",",O
 Delhi,B-LOC
 at,O
 the,O
@@ -34902,7 +34091,6 @@ place,O
 at,O
 Lotus,B-LOC
 Temple,I-LOC
-",",O
 near,O
 Nehru,B-LOC
 Place,I-LOC
@@ -34922,14 +34110,12 @@ accident,O
 at,O
 IIT,B-LOC
 Delhi,I-LOC
-",",O
 traffic,O
 is,O
 chocked,O
 towards,O
 Nehru,B-LOC
 Place,I-LOC
-",",O
 avoid,O
 this,O
 stretch,O
@@ -34955,18 +34141,15 @@ Accident,O
 Victims,O
 On,O
 Road,O
-",",O
 They,O
 Will,O
 Behave,O
-",",O
 The,O
 Way,O
 Do,O
 At,O
 Nehru,B-LOC
 Place,I-LOC
-",",O
 Or,O
 At,O
 New,B-LOC
@@ -35085,7 +34268,6 @@ Thana,I-LOC
 Dasmesh,B-LOC
 Public,I-LOC
 School,I-LOC
-",",O
 orf,O
 Footh,O
 path,O
@@ -35111,7 +34293,6 @@ bana,O
 rahey,O
 tha,O
 hey,O
-",",O
 pedal,O
 yatri,O
 kidar,O
@@ -35185,7 +34366,6 @@ car,O
 no,O
 .,O
 below,O
-",",O
 take,O
 action,O
 against,O
@@ -35199,11 +34379,9 @@ residents,O
 faced,O
 with,O
 hair-raising,O
-",",O
 and,O
 often,O
 deadly,O
-",",O
 daily,O
 commute,O
 :,O
@@ -35231,9 +34409,7 @@ India,B-LOC
 Sentence #1188,
 NEW,B-LOC
 DELHI,I-LOC
-",",O
 India,B-LOC
-",",O
 May,B-TIM
 18,I-TIM
 (,O
@@ -35254,7 +34430,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 28,I-TIM
 (,O
@@ -35294,7 +34469,6 @@ Delhi,B-LOC
 HC,I-LOC
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jun,O
 24,O
 (,O
@@ -35327,7 +34501,6 @@ Delhi,B-LOC
 HC,I-LOC
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jun,O
 24,O
 ...,O
@@ -35347,7 +34520,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 22,I-TIM
 (,O
@@ -35422,7 +34594,6 @@ victim,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jun,O
 15,O
 (,O
@@ -35449,7 +34620,6 @@ accident,O
 :,O
 NEW,B-LOC
 DELHI,I-LOC
-",",O
 June,B-TIM
 9,I-TIM
 (,O
@@ -35521,7 +34691,6 @@ http,O
 //bit.ly/bhf14f,O
 Sentence #1199,
 Six,O
-"killed,20",O
 injured,O
 in,O
 West,B-LOC
@@ -35530,7 +34699,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 6,I-TIM
 .,O
@@ -35552,7 +34720,6 @@ News,B-ORG
 India,I-ORG
 :,O
 Boy,O
-",",O
 grandpa,O
 killed,O
 in,O
@@ -35562,7 +34729,6 @@ Alipur,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 6,I-TIM
 (,O
@@ -35573,7 +34739,6 @@ boy,O
 and,O
 his,O
 grandfather,O
-",",O
 returnin,O
 ...,O
 http,O
@@ -35595,7 +34760,6 @@ Kerala,I-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 6,I-TIM
 :,I-TIM
@@ -35622,7 +34786,6 @@ India,B-LOC
 :,O
 NEW,B-LOC
 DELHI,I-LOC
-",",O
 June,B-TIM
 4,I-TIM
 (,O
@@ -35650,7 +34813,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 June,B-TIM
 4,I-TIM
 (,O
@@ -35716,7 +34878,6 @@ More,O
 than,O
 30,O
 people,O
-",",O
 including,O
 ...,O
 http,O
@@ -35739,11 +34900,9 @@ More,O
 than,O
 30,O
 people,O
-",",O
 including,O
 10,O
 children,O
-",",O
 were,O
 k,O
 ...,O
@@ -35763,7 +34922,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 May,B-TIM
 30,I-TIM
 (,O
@@ -35792,7 +34950,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 May,B-TIM
 30,I-TIM
 (,O
@@ -35824,7 +34981,6 @@ rate,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,O
 9,O
 (,O
@@ -35847,7 +35003,6 @@ helped,O
 in,O
 reducing,O
 accidents,O
-",",O
 saving,O
 time,O
 :,O
@@ -35855,7 +35010,6 @@ study,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,O
 6,O
 (,O
@@ -36013,7 +35167,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36039,7 +35192,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36071,7 +35223,6 @@ bus,O
 accident,O
 :,O
 May,B-TIM
-"30th,2009",I-TIM
 NEW,B-LOC
 DELHI,I-LOC
 -,O
@@ -36089,7 +35240,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36101,7 +35251,6 @@ Lead,O
 ),O
 :,O
 September,B-TIM
-"28th,2009",I-TIM
 NEW,B-LOC
 DELHI,I-LOC
 -,O
@@ -36116,7 +35265,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36125,7 +35273,6 @@ accidents,O
 -,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-LOC
 28,I-LOC
 (,O
@@ -36135,7 +35282,6 @@ Social,O
 networking,O
 sites,O
 Facebook,B-ORG
-",",O
 ...,O
 http,O
 :,O
@@ -36148,7 +35294,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36157,7 +35302,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-LOC
 28,I-LOC
 (,O
@@ -36174,7 +35318,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,O
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36201,7 +35344,6 @@ News,B-ORG
 India,I-ORG
 :,O
 Three,O
-"killed,38",O
 injured,O
 in,O
 Delhi,B-LOC
@@ -36209,7 +35351,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sept,B-TIM
 28,I-TIM
 (,O
@@ -36235,7 +35376,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-TIM
 28,I-TIM
 (,O
@@ -36243,11 +35383,9 @@ PTI,O
 ),O
 Two,O
 minors,O
-",",O
 including,O
 a,O
 girl,O
-",",O
 wer,O
 ..,O
 http,O
@@ -36258,7 +35396,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36285,7 +35422,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36300,7 +35436,6 @@ Thaindian.com,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-TIM
 28,I-TIM
 (,O
@@ -36316,7 +35451,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,B-ORG
-",",O
 Twitter,B-ORG
 to,O
 curb,O
@@ -36331,7 +35465,6 @@ Thaindian.com,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-TIM
 28,I-TIM
 (,O
@@ -36347,7 +35480,6 @@ India,B-LOC
 to,O
 use,O
 Facebook,O
-",",O
 Twitter,B-ORG
 to,O
 reduce,O
@@ -36359,7 +35491,6 @@ Kerala,I-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,B-LOC
 28,I-LOC
 :,O
@@ -36380,7 +35511,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 11,I-TIM
 (,O
@@ -36414,7 +35544,6 @@ Disaster,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 11,I-TIM
 -,I-TIM
@@ -36446,7 +35575,6 @@ India,I-ORG
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,B-LOC
 11,I-LOC
 (,O
@@ -36477,7 +35605,6 @@ Disaster,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 8,I-TIM
 -,I-TIM
@@ -36507,7 +35634,6 @@ Disaster,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 7,I-TIM
 -,O
@@ -36521,7 +35647,6 @@ t,O
 Sentence #1234,
 New,B-LOC
 Delhi,I-LOC
-",",O
 Mar,O
 6,O
 :,O
@@ -36532,7 +35657,6 @@ menace,O
 of,O
 drunken,O
 driving,O
-",",O
 a,O
 Motor,B-ORG
 Accident,I-ORG
@@ -36581,7 +35705,6 @@ Bharati,I-ORG
 CEO,I-ORG
 's,O
 office,O
-",",O
 residence,O
 |,O
 Accident,O
@@ -36589,7 +35712,6 @@ Accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 4,I-TIM
 -,I-TIM
@@ -36605,7 +35727,6 @@ http,O
 Sentence #1237,
 Indian,B-GPE
 girl,O
-",",O
 Nigerian,B-GPE
 held,O
 for,O
@@ -36619,7 +35740,6 @@ Crime,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 3,I-TIM
 -,I-TIM
@@ -36647,7 +35767,6 @@ Disaster,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 March,B-TIM
 1,I-TIM
 -,I-TIM
@@ -36665,7 +35784,6 @@ Dwarka,B-LOC
 Times,I-LOC
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36679,7 +35797,6 @@ News,I-ORG
 :,O
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36695,7 +35812,6 @@ Dwarka,B-LOC
 Times,I-LOC
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36705,7 +35821,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-LOC
 28,I-LOC
 (,O
@@ -36725,7 +35840,6 @@ Sentence #1241,
 MyNews.in,O
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36735,7 +35849,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-TIM
 28,I-TIM
 (,O
@@ -36753,7 +35866,6 @@ MyNews.in,O
 Sentence #1242,
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36763,7 +35875,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-LOC
 28,I-LOC
 (,O
@@ -36784,7 +35895,6 @@ http,O
 Sentence #1243,
 Two,O
 killed,O
-",",O
 one,O
 hurt,O
 in,O
@@ -36798,7 +35908,6 @@ News,I-ORG
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-LOC
 28,I-LOC
 (,O
@@ -36815,7 +35924,6 @@ http,O
 Sentence #1244,
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-TIM
 27,I-TIM
 (,O
@@ -36823,12 +35931,10 @@ PTI,O
 ),O
 Three,O
 persons,O
-",",O
 including,O
 a,O
 a,O
 student,O
-",",O
 were,O
 killed,O
 in,O
@@ -36860,7 +35966,6 @@ Disaster,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,B-TIM
 25,I-TIM
 -,O
@@ -36876,7 +35981,6 @@ Sentence #1246,
 Two,O
 Myanmarese,B-GPE
 youths,O
-",",O
 cyclist,O
 killed,O
 in,O
@@ -36886,7 +35990,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,O
 23,O
 :,O
@@ -36910,7 +36013,6 @@ Delhi,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,O
 23,O
 (,O
@@ -36918,7 +36020,6 @@ PTI,O
 ),O
 Three,O
 persons,O
-",",O
 including,O
 two,O
 Myanmar,B-LOC
@@ -36932,7 +36033,6 @@ MyNews.in,O
 Two,O
 Myanmarese,B-GPE
 youths,O
-",",O
 cyclist,O
 killed,O
 in,O
@@ -36942,7 +36042,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Feb,O
 23,O
 (,O
@@ -36975,7 +36074,6 @@ hit,O
 by,O
 a,O
 bus,O
-",",O
 only,O
 to,O
 get,O
@@ -37017,7 +36115,6 @@ Delhi,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Nov,B-TIM
 22,I-TIM
 (,O
@@ -37173,7 +36270,6 @@ accident,O
 Sentence #1258,
 NEW,B-LOC
 DELHI,I-LOC
-",",O
 May,B-TIM
 18,I-TIM
 (,O
@@ -37235,7 +36331,6 @@ http,O
 //yhoo.it/1rG1PQb,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37244,7 +36339,6 @@ IANS,O
 President,B-PER
 Pranab,I-PER
 Mukherjee,I-PER
-",",O
 Prim,B-LOC
 Sentence #1261,
 Leaders,O
@@ -37257,7 +36351,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37266,7 +36359,6 @@ IANS,O
 President,B-PER
 Pranab,I-PER
 Mukherjee,I-PER
-",",O
 Pr,O
 ...,O
 http,O
@@ -37285,7 +36377,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37303,7 +36394,6 @@ Via,O
 hoteldealphuket,O
 Sentence #1263,
 President,B-PER
-",",O
 PM,B-PER
 condole,O
 deaths,O
@@ -37328,7 +36418,6 @@ http,O
 //bit.ly/1mPHU2b,O
 Sentence #1264,
 President,B-PER
-",",O
 PM,B-PER
 condole,O
 deaths,O
@@ -37339,7 +36428,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37356,7 +36444,6 @@ http,O
 yahoonews,O
 Sentence #1265,
 President,B-PER
-",",O
 PM,O
 condole,O
 deaths,O
@@ -37372,7 +36459,6 @@ http,O
 //yhoo.it/1vws7qC,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37386,10 +36472,8 @@ Man,O
 tweets,O
 while,O
 driving,O
-",",O
 meets,O
 accident,O
-",",O
 uses,O
 Google,B-ORG
 Maps,O
@@ -37415,10 +36499,8 @@ Man,O
 tweets,O
 while,O
 driving,O
-",",O
 meets,O
 accident,O
-",",O
 uses,O
 Google,B-ORG
 Maps,O
@@ -37450,7 +36532,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37481,7 +36562,6 @@ http,O
 //yhoo.it/1ucrGS2,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Oct,B-TIM
 1,I-TIM
 (,O
@@ -37540,7 +36620,6 @@ http,O
 Sentence #1273,
 Shilpa,B-PER
 Shetty,I-PER
-",",O
 Raj,B-ORG
 Kundra,I-ORG
 unhurt,O
@@ -37596,7 +36675,6 @@ road,O
 accident,O
 in,O
 Jammu,B-LOC
-",",O
 aft,O
 ...,O
 http,O
@@ -37638,7 +36716,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,O
 25,O
 (,O
@@ -37665,7 +36742,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Sep,O
 25,O
 (,O
@@ -37729,7 +36805,6 @@ Fernandes,B-PER
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jan,B-TIM
 16,I-TIM
 (,O
@@ -37757,7 +36832,6 @@ rate,O
 record,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Jan,B-TIM
 .,O
 16,B-TIM
@@ -37809,7 +36883,6 @@ State,I-GPE
 of,O
 #,O
 Maharashtra,B-LOC
-",",O
 at,O
 least,O
 9,O
@@ -37835,7 +36908,6 @@ State,I-GPE
 of,O
 #,O
 Maharashtra,B-LOC
-",",O
 at,O
 least,O
 9,O
@@ -37861,7 +36933,6 @@ State,I-GPE
 of,O
 #,O
 Maharashtra,B-LOC
-",",O
 at,O
 least,O
 9,O
@@ -37892,7 +36963,6 @@ State,I-GPE
 of,O
 #,O
 Maharashtra,B-LOC
-",",O
 at,O
 least,O
 9,O
@@ -37923,7 +36993,6 @@ of,O
 a,O
 MTNL,B-ORG
 employee,B-PER
-",",O
 who,O
 died,O
 in,O
@@ -37932,7 +37001,6 @@ road,O
 accident,O
 in,O
 2009,B-TIM
-",",O
 have,O
 been,O
 awarded,O
@@ -38063,7 +37131,6 @@ victims,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 Dec,B-TIM
 28,I-TIM
 :,O
@@ -38093,10 +37160,8 @@ accident,O
 The,O
 auto,O
 '',O
-",",O
 said,O
 witnesses,O
-",",O
 '',O
 took,O
 an,O
@@ -38115,7 +37180,6 @@ accident,O
 on,O
 Savitri,B-PER
 Flyover,I-PER
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
@@ -38123,7 +37187,6 @@ My,O
 mood,O
 :,O
 happy,O
-",",O
 http,O
 :,O
 //goo.gl/tMG0ji,O
@@ -38140,7 +37203,6 @@ Killed,O
 in,O
 Road,B-LOC
 Accident,O
-",",O
 as,O
 Dense,O
 Fog,O
@@ -38169,7 +37231,6 @@ Sentence #1298,
 Dense,O
 fog,O
 covers,O
-"Delhi,4",O
 killed,O
 in,O
 road,O
@@ -38197,7 +37258,6 @@ Sentence #1299,
 Dense,O
 fog,O
 covers,O
-"Delhi,4",O
 killed,O
 in,O
 road,B-LOC
@@ -38227,13 +37287,11 @@ Prasad,I-PER
 injured,O
 in,O
 accident,O
-",",O
 sustains,O
 injuries,O
 in,O
 his,O
 head,O
-",",O
 face,O
 Sentence #1301,
 New,B-LOC
@@ -38260,7 +37318,6 @@ India,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38288,7 +37345,6 @@ India,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38316,7 +37372,6 @@ India,B-LOC
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38347,7 +37402,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38377,7 +37431,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38407,7 +37460,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38437,7 +37489,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38467,7 +37518,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38495,7 +37545,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38522,7 +37571,6 @@ accident,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38535,7 +37583,6 @@ killed,O
 and,O
 five,O
 people,O
-",",O
 in,O
 ...,O
 http,O
@@ -38578,7 +37625,6 @@ accidents,O
 :,O
 New,B-LOC
 Delhi,I-LOC
-",",O
 April,B-TIM
 29,I-TIM
 (,O
@@ -38600,24 +37646,20 @@ TOIDelhiNews,O
 Govindpuri,B-LOC
 metro,I-LOC
 station,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
 Since,B-TIM
 5,I-TIM
 days,O
-",",O
 Traffic,O
 signals,O
 out,O
 of,O
 service,O
-",",O
 no,O
 traffic,O
 police,O
-",",O
 minor,O
 accidents,O
 .,O
@@ -38629,24 +37671,20 @@ ndtv,O
 Govindpuri,B-LOC
 metro,I-LOC
 station,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
 Since,B-TIM
 5,I-TIM
 days,O
-",",O
 Traffic,O
 signals,O
 out,O
 of,O
 service,O
-",",O
 no,O
 traffic,O
 police,O
-",",O
 minor,O
 accidents,O
 .,O
@@ -38658,24 +37696,20 @@ dibang,O
 Govindpuri,B-LOC
 metro,I-LOC
 station,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
 Since,B-TIM
 5,I-TIM
 days,O
-",",O
 Traffic,O
 signals,O
 out,O
 of,O
 service,O
-",",O
 no,O
 traffic,O
 police,O
-",",O
 minor,O
 accidents,O
 .,O
@@ -38687,24 +37721,20 @@ RavishKumarNDTV,O
 Govindpuri,B-LOC
 metro,I-LOC
 station,I-LOC
-",",O
 New,B-LOC
 Delhi,I-LOC
 .,O
 Since,B-TIM
 5,I-TIM
 days,O
-",",O
 Traffic,O
 signals,O
 out,O
 of,O
 service,O
-",",O
 no,O
 traffic,O
 police,O
-",",O
 minor,O
 accidents,O
 .,O

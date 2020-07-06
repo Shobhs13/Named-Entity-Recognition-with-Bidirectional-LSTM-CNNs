@@ -2,12 +2,9 @@ Sentence #109,
 ADDRESS,O
 :,O
 D1/356,B-LOC
-""",""",O
 ASHOKNAGAR,B-LOC
-""",""",O
 GALI,B-LOC
 NO-14,I-LOC
-""",""",O
 DELHI,B-LOC
 Sentence #110,
 CONTACT,O
@@ -15,7 +12,6 @@ NO,O
 .,O
 :,O
 7982636848,O
-""",""",O
 8810576793,O
 Sentence #111,
 KNO,O
@@ -87,14 +83,11 @@ location,O
 i.e,O
 .,O
 T-block,O
-""",""",O
 Jain,B-PER
 Sthanak,I-PER
 Gali,I-LOC
-""",""",O
 Prem,B-LOC
 Nagar,I-LOC
-""",""",O
 Uttam,B-LOC
 nagar,I-LOC
 .,O
@@ -232,20 +225,16 @@ MCDDelhI,O
 @,O
 galI,I-LOC
 no.1,O
-""",""",O
 small,O
 street,O
 west,I-LOC
 chander,B-LOC
 nagar,I-LOC
-""",""",O
 delhi-51,O
-""",""",O
 naliyo,O
 me,O
 se,O
 snakes,O
-""",""",O
 insects,O
 nikal,O
 rahe,O
@@ -303,11 +292,8 @@ Matter,O
 !,O
 Graphic,O
 Designing,O
-""",""",O
 Printing,O
-""",""",O
 Advertising,O
-""",""",O
 Branding,B-PER
 Etc,I-PER
 ...,O
@@ -316,15 +302,12 @@ Mobile,O
 +91,O
 9999081545,O
 D-369,B-ORG
-""",""",O
 Gali,B-LOC
 No,I-LOC
 .,O
 13,I-LOC
-""",""",O
 Laxmi,B-LOC
 Nagar,I-LOC
-""",""",O
 Delhi-110092,B-LOC
 Email,O
 :,O
@@ -345,11 +328,8 @@ Matter,O
 !,O
 Graphic,O
 Designing,O
-""",""",O
 Printing,O
-""",""",O
 Advertising,O
-""",""",O
 Branding,O
 Etc,O
 ...,O
@@ -358,15 +338,12 @@ Mobile,O
 +91,O
 9999081545,O
 D-369,B-ORG
-""",""",O
 Gali,B-LOC
 No,O
 .,O
 13,I-LOC
-""",""",O
 Laxmi,B-LOC
 Nagar,I-LOC
-""",""",O
 Delhi-110092,B-PER
 Email,I-PER
 :,O
@@ -377,7 +354,6 @@ pic.twitter.com/2Ejcet4Snu,O
 Sentence #123,
 Dear,O
 sir/madam,O
-""",""",O
 Sentence #124,
 Yeh,O
 haal,O
@@ -513,7 +489,6 @@ government,O
 Sentence #131,
 Dear,O
 sir/madam,O
-""",""",O
 Sentence #132,
 Yeh,O
 haal,O
@@ -674,17 +649,13 @@ Address-,B-PER
 Gali,I-LOC
 no,I-LOC
 11,I-LOC
-""",""",O
 near,O
 hanuman,B-LOC
 mandir,I-LOC
-""",""",O
 kiran,B-LOC
 garden,I-LOC
-""",""",O
 uttam,B-LOC
 nagar,I-LOC
-""",""",O
 new,B-LOC
 delhi-110059,I-LOC
 .,O
@@ -698,7 +669,6 @@ MTNLOfficial,O
 DoT_India,O
 Dear,O
 Sir,O
-""",""",O
 I,O
 have,O
 been,O
@@ -722,7 +692,6 @@ ram,B-LOC
 nagar,I-LOC
 shahdara,I-LOC
 DelhI,B-LOC
-""",""",O
 but,O
 problem,O
 resolve,O
@@ -800,17 +769,13 @@ Address-,B-PER
 Gali,I-LOC
 no,O
 11,I-LOC
-""",""",O
 near,O
 hanuman,B-LOC
 mandir,I-LOC
-""",""",O
 kiran,B-LOC
 garden,I-LOC
-""",""",O
 uttam,B-LOC
 nagar,I-LOC
-""",""",O
 new,B-LOC
 delhi-110059,O
 .,O
@@ -824,7 +789,6 @@ MTNLOfficial,O
 DoT_India,O
 Dear,O
 Sir,O
-""",""",O
 I,O
 have,O
 been,O
@@ -848,7 +812,6 @@ ram,B-LOC
 nagar,I-LOC
 shahdara,I-LOC
 DelhI,B-LOC
-""",""",O
 but,O
 problem,O
 resolve,O
@@ -911,11 +874,9 @@ galI,I-LOC
 no,I-LOC
 .,O
 11,I-LOC
-""",""",O
 Bhola,B-LOC
 Nath,I-LOC
 Nagar,I-LOC
-""",""",O
 Shahdara,B-LOC
 Delhi-110032,I-LOC
 (,O
@@ -1020,12 +981,9 @@ Sentence #148,
 Gali,B-LOC
 No,I-LOC
 6,O
-""",""",O
 Jain,B-LOC
 Nagar,I-LOC
-""",""",O
 Delhi,B-LOC
-""",1""",O
 4,O
 5,O
 15,O
@@ -1104,20 +1062,16 @@ MCDDelhI,O
 narendramodi,O
 galI,I-LOC
 no.1,I-LOC
-""",""",O
 small,O
 street,O
 west,B-LOC
 chander,B-LOC
 nagar,I-LOC
-""",""",O
 delhi-51,O
-""",""",O
 naliyo,O
 me,O
 se,O
 snakes,O
-""",""",O
 insects,O
 nikal,O
 rahe,O
@@ -1156,11 +1110,9 @@ galI,I-LOC
 no,O
 .,O
 11,I-LOC
-""",""",O
 Bhola,B-LOC
 Nath,I-LOC
 Nagar,I-LOC
-""",""",O
 Shahdara,B-LOC
 Delhi-110032,I-LOC
 (,O
@@ -1265,12 +1217,9 @@ Sentence #155,
 Gali,B-LOC
 No,O
 6,O
-""",""",O
 Jain,B-LOC
 Nagar,I-LOC
-""",""",O
 Delhi,B-LOC
-""",1""",O
 4,O
 5,O
 15,I-LOC
@@ -1349,20 +1298,16 @@ MCDDelhI,O
 narendramodi,O
 galI,I-LOC
 no.1,O
-""",""",O
 small,O
 street,O
 west,B-LOC
 chander,I-LOC
 nagar,I-LOC
-""",""",O
 delhi-51,O
-""",""",O
 naliyo,O
 me,O
 se,O
 snakes,O
-""",""",O
 insects,O
 nikal,O
 rahe,O
@@ -1447,7 +1392,6 @@ Sentence #160,
 @,O
 ArvindKejriwal,O
 Sir,O
-""",""",O
 we,O
 are,O
 living,O
