@@ -1,8 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def train_sentences() :
-
+def main_dataset():
     df = pd.read_csv('dataset/main_dataset.csv', encoding = "ISO-8859-1")
     df = df[:100000]
     df.head()
@@ -30,13 +29,15 @@ def train_sentences() :
                 return None
     getter = SentenceGetter(df)
     sentences = getter.sentences
-    finalSentences = []
-    # for sentence in sentences :
-    #     arr = []
-    #     for i in sentence:
-    #         arr.append([i[0], i[2]])
-    #     finalSentences.append(arr)
+    for sentence in sentences :
+        arr = []
+        for i in sentence:
+            arr.append([i[0], i[2]])
+        finalSentences.append(arr)
 
+    return finalSentences
+def train_sentences() :    
+    finalSentences = []
     f = open("dataset/gali_annotated_train.csv", "r")
     curr = []
     for x in f:
