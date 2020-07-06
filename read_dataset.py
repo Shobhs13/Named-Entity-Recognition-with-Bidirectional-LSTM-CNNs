@@ -98,3 +98,6 @@ def test_sentences() :
 #     for j in i:
 #         if len(j) != 2:
 #             print(j)
+#         else :
+#             if j[0] == '' or j[1]=='' :
+#                 print(j)
