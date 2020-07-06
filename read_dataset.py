@@ -31,11 +31,11 @@ def train_sentences() :
     getter = SentenceGetter(df)
     sentences = getter.sentences
     finalSentences = []
-    for sentence in sentences :
-        arr = []
-        for i in sentence:
-            arr.append([i[0], i[2]])
-        finalSentences.append(arr)
+    # for sentence in sentences :
+    #     arr = []
+    #     for i in sentence:
+    #         arr.append([i[0], i[2]])
+    #     finalSentences.append(arr)
 
     f = open("dataset/gali_annotated_train.csv", "r")
     curr = []
@@ -45,6 +45,7 @@ def train_sentences() :
                 finalSentences.append(curr)
             curr = []
         else :
+            # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
 
@@ -56,6 +57,7 @@ def train_sentences() :
                 finalSentences.append(curr)
             curr = []
         else :
+            # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
 
@@ -72,6 +74,7 @@ def test_sentences() :
                 finalSentences.append(curr)
             curr = []
         else :
+            # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
 
@@ -83,6 +86,7 @@ def test_sentences() :
                 finalSentences.append(curr)
             curr = []
         else :
+            # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
 

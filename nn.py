@@ -8,7 +8,7 @@ from keras.utils import Progbar
 from keras.preprocessing.sequence import pad_sequences
 from keras.initializers import RandomUniform
 
-epochs = 50
+epochs = 30
 
 def tag_dataset(dataset):
     correctLabels = []
