@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 def main_dataset():
+    finalSentences = []
     df = pd.read_csv('dataset/main_dataset.csv', encoding = "ISO-8859-1")
     df = df[:100000]
     df.head()
@@ -36,9 +37,10 @@ def main_dataset():
         finalSentences.append(arr)
 
     return finalSentences
+
 def train_sentences() :    
     finalSentences = []
-    f = open("dataset/gali_annotated_train.csv", "r")
+    f = open("dataset/shuffled.csv", "r")
     curr = []
     for x in f:
         if "Sentence #" in x:
@@ -49,25 +51,11 @@ def train_sentences() :
             # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
-
-    f = open("dataset/accident_annotated_train.csv", "r")
-    curr = []
-    for x in f:
-        if "Sentence #" in x:
-            if curr != [] :
-                finalSentences.append(curr)
-            curr = []
-        else :
-            # x = x[0:len(x)-1]
-            y = x.split(',')
-            curr.append(y)
-
-    return finalSentences
+    return finalSentences[:2000]
 
 def test_sentences() :
     finalSentences = []
-
-    f = open("dataset/gali_annotated_test.csv", "r")
+    f = open("dataset/shuffled.csv", "r")
     curr = []
     for x in f:
         if "Sentence #" in x:
@@ -78,20 +66,7 @@ def test_sentences() :
             # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
-
-    f = open("dataset/accident_annotated_test.csv", "r")
-    curr = []
-    for x in f:
-        if "Sentence #" in x:
-            if curr != [] :
-                finalSentences.append(curr)
-            curr = []
-        else :
-            # x = x[0:len(x)-1]
-            y = x.split(',')
-            curr.append(y)
-
-    return finalSentences
+    return finalSentences[2000:]
 
 # s = train_sentences() + test_sentences()
 
