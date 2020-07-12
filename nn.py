@@ -28,7 +28,7 @@ def tag_dataset(dataset):
     return predLabels, correctLabels
 
 
-trainSentences = main_dataset()
+trainSentences = main_dataset()+train_sentences()
 devSentences = train_sentences()
 testSentences = test_sentences()
 

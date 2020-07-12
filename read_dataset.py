@@ -4,7 +4,7 @@ import numpy as np
 def main_dataset():
     finalSentences = []
     df = pd.read_csv('dataset/main_dataset.csv', encoding = "ISO-8859-1")
-    df = df[:100000]
+    df = df[:200000]
     df.head()
     df.isnull().sum()
     df = df.fillna(method='ffill')
@@ -51,7 +51,7 @@ def train_sentences() :
             # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
-    return finalSentences[:2000]
+    return finalSentences[:2600]
 
 def test_sentences() :
     finalSentences = []
@@ -66,7 +66,7 @@ def test_sentences() :
             # x = x[0:len(x)-1]
             y = x.split(',')
             curr.append(y)
-    return finalSentences[2000:]
+    return finalSentences[2600:]
 
 # s = train_sentences() + test_sentences()
 
